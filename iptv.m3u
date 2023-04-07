@@ -859,7 +859,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226241/index.m3u8
 #EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="咪咕",咪咕视频
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8
 
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/求索纪录.png" group-title="华数",求索纪录
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/求索记录.png" group-title="华数",求索纪录
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/求索生活.png" group-title="华数",求索生活
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
