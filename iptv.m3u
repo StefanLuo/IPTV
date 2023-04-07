@@ -658,12 +658,12 @@ http://gg.gg/szcjsh
 http://218.17.216.102:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/深圳财经生活.png" group-title="深圳",深圳财经生活
 http://lu1.cc/itv/sjtv/gd/sztv.php?id=szcjsh
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨嵋电影.png" group-title="四川",峨嵋电影
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
 http://r.jdshipin.com/XIjta
 http://livehkkp.chinamcache.com/live/emdygqH265_4000.m3u8
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨嵋电影.png" group-title="四川",峨嵋电影
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
 http://r.jdshipin.com/vFgDS
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨嵋电影.png" group-title="四川",峨嵋电影
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
 http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="UHD",4K超高清电影
@@ -1435,7 +1435,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="数字",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="UHD",纯享超清
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="UHD",纯享4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南",河南都市
 http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
@@ -1541,7 +1541,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江西新闻.png" group-title="江西",江西新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225615/2/index.m3u8
-#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="江西",江西经生
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江西经济生活.png" group-title="江西",江西经济生活
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226206/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江西少儿.png" group-title="江西",江西少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
@@ -1561,7 +1561,7 @@ https://zb.fanmingming.com/api/v6.php?id=SCTV-7-
 https://zb.fanmingming.com/api/v6.php?id=SCTV-ggSCTV-8
 #EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川",四川乡村
 https://zb.fanmingming.com/api/v6.php?id=SCTV-kjSCTV-9-
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨嵋电影.png" group-title="四川",峨嵋电影
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
 https://zb.fanmingming.com/api/v6.php?id=emdygqH265
 #EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.com/tv/成都新闻综合.png" group-title="四川",成都新闻综合
 https://zb.fanmingming.com/api/v6.php?id=CDTV-1
