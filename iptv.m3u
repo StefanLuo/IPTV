@@ -594,8 +594,7 @@ http://r.jdshipin.com/p8dEo
 http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 #EXTINF:-1 ,厦门卫视.720
-http://lu1.cc/c/tv/fjtv/kxm.php
-http://lu1.cc/itv/fjtv/xmtv.php?id=xmws
+http://lu1.cc/c/tv/fjtv/kxm.php?id=xmws
 #EXTINF:-1 ,厦门卫视.576
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
@@ -641,8 +640,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212255
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,云南卫视.备用
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,云南卫视.备用.576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 ,贵州卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
@@ -978,7 +976,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,魅力足球
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/mlyyhd8m/8000000
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226574/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1353,60 +1351,60 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u
 #EXTINF:-1 ,爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1,华语影院
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-66
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1,星光影院
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/xgyy8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-70
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1,全球大片
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/qqdp8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-72
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
 #EXTINF:-1,热门剧场
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/rmjc8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-73
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
 #EXTINF:-1,谍战剧场
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/dzjc8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-71
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1,青春动漫
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/qcdm8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-68
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
 #EXTINF:-1,宝宝动画
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/bbdh8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-69
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 #EXTINF:-1,戏曲精选
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/xqjx8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-49
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 #EXTINF:-1,热门综艺
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/rmzy8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-62
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1,超级体育
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/qcsj8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-63
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1,健康养生
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/jkys8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-64
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 #EXTINF:-1,百变课堂
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/bbkt8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-65
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 #EXTINF:-1,看天下精选
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/ktxjx8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-88
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1,电竞天堂
-http://shuhuohbbak.live51.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=/djtt8m/8000000
 http://cfss.cc/ds/bst.php?id=Cf-67
 http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
 
