@@ -228,9 +228,9 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.16:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="北京文艺HD" tvg-name="北京文艺" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京文艺HD
 http://tv6.blcu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/7f99b1e611-0-0-3a5dbeed230ce6375ed9eb7e8cb1fd2a/index.m3u8
-#EXTINF:-1 tvg-id="北京影视HD" tvg-name="北京影视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="电影",北京影视HD
+#EXTINF:-1 tvg-id="北京影视HD" tvg-name="北京影视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京影视HD
 http://tv6.blcu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/1062347a50-0-0-746931e8f15b57fbd756423832e78da5/index.m3u8
-#EXTINF:-1 tvg-id="北京影视HD（备份）" tvg-name="北京影视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="电影",北京影视HD（备份）
+#EXTINF:-1 tvg-id="北京影视HD（备份）" tvg-name="北京影视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京影视HD（备份）
 http://www.icancloud.top:8888/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="北京财经HD" tvg-name="北京财经" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京财经HD
 http://tv6.blcu.edu.cn/liverespath/d50aa8fd16c241a3d3d6dd183f8bedbbc704e4fb/1f36feb631-0-0-d7cbf0601eb5c8fc466ba7058b9f135e/index.m3u8
