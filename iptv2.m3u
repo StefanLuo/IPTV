@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="62" tvg-name="CCTV-1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.145:5140
-#EXTINF:-1 tvg-id="62" tvg-name="CCTV-1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1.4K
+#EXTINF:-1 tvg-id="CCTV-1.4K" tvg-name="CCTV-1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1.4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="CCTV-2" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.1:5140
@@ -38,23 +38,23 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.20:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.10:5140
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV-17" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.52:5140
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="央视",CCTV-4K.HD
+#EXTINF:-1 tvg-id="CCTV-4K.HD" tvg-name="CCTV-4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="央视",CCTV-4K.HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="CGTN" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN.png" group-title="央视",CGTN
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.194:5140
-#EXTINF:-1 tvg-id="29" tvg-name="CGTN" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN.png" group-title="央视",CGTN.HD
+#EXTINF:-1 tvg-id="CGTN.HD" tvg-name="CGTN" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN.png" group-title="央视",CGTN.HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN纪实HD
+#EXTINF:-1 tvg-id="CGTN纪实HD" tvg-name="CGTN纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN纪实HD
 http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="100" tvg-name="中国教育-1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育1台.png" group-title="央视",中国教育-1HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="155" tvg-name="中国教育-2" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育2台.png" group-title="央视",中国教育-2
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.52:5140
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育3台.png" group-title="央视",中国教育-3HD
+#EXTINF:-1 tvg-id="中国教育-3HD" tvg-name="中国教育-3" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育3台.png" group-title="央视",中国教育-3HD
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="中国教育-4" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育4台.png" group-title="央视",中国教育-4HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.21:5140
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/早期教育.png" group-title="央视",早期教育HD
+#EXTINF:-1 tvg-id="早期教育HD" tvg-name="早期教育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/早期教育.png" group-title="央视",早期教育HD
 https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 #EXTINF:-1 tvg-id="53" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.146:5140
