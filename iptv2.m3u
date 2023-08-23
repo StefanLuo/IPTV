@@ -10,6 +10,10 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.1:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.68:5140
 #EXTINF:-1 tvg-id="72" tvg-name="CCTV-4" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.2:5140
+#EXTINF:-1 tvg-id="CCTV-4（欧洲）HD" tvg-name="CCTV-4（欧洲）" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4（欧洲）HD
+http://www.icancloud.top:8888/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="CCTV-4（美洲）HD" tvg-name="CCTV-4（美洲）" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4美洲.png" group-title="央视",CCTV-4（美洲）HD
+http://www.icancloud.top:8888/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="73" tvg-name="CCTV-5" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="69" tvg-name="CCTV-5+" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+HD
@@ -44,8 +48,18 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="CGTN.HD" tvg-name="CGTN" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN.png" group-title="央视",CGTN.HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="CGTN纪实HD" tvg-name="CGTN纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN纪实HD
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN纪录
 http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CGTN纪录（备用）" tvg-name="CGTN纪录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN纪录（备用）
+http://run2.top:8888/udp/239.21.2.31:5002
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN阿拉伯语
+http://run2.top:8888/udp/239.21.2.34:5002
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN俄语
+http://run2.top:8888/udp/239.21.2.35:5002
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN法语
+http://run2.top:8888/udp/239.21.2.33:5002
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN西班牙语
+http://run2.top:8888/udp/239.21.2.32:5002
 #EXTINF:-1 tvg-id="100" tvg-name="中国教育-1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育1台.png" group-title="央视",中国教育-1HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="155" tvg-name="中国教育-2" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育2台.png" group-title="央视",中国教育-2
@@ -116,33 +130,33 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.15:5140
 #EXTINF:-1 tvg-id="118" tvg-name="宁夏卫视" tvg-logo="https://epg.deny.vip/ws/ningxia.png" group-title="卫视",宁夏卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.213:5140
-#EXTINF:-1 tvg-id="118" tvg-name="宁夏卫视" tvg-logo="https://epg.deny.vip/ws/ningxia.png" group-title="卫视",宁夏卫视HD
+#EXTINF:-1 tvg-id="宁夏卫视HD" tvg-name="宁夏卫视" tvg-logo="https://epg.deny.vip/ws/ningxia.png" group-title="卫视",宁夏卫视HD
 https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.229:5140
-#EXTINF:-1 tvg-id="133" tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视HD
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视HD
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="27214" tvg-name="青海卫视" tvg-logo="https://epg.deny.vip/ws/qinghai.png" group-title="卫视",青海卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.230:5140
-#EXTINF:-1 tvg-id="27214" tvg-name="青海卫视" tvg-logo="https://epg.deny.vip/ws/qinghai.png" group-title="卫视",青海卫视HD
+#EXTINF:-1 tvg-id="青海卫视HD" tvg-name="青海卫视" tvg-logo="https://epg.deny.vip/ws/qinghai.png" group-title="卫视",青海卫视HD
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安多卫视.png" group-title="卫视",安多卫视HD
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-id="135" tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.231:5140
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视HD
+http://zgntv.icu/live/xztv.php?id=0
 #EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视HD
 http://zgntv.icu/live/xztv.php?id=1
-#EXTINF:-1 tvg-id="135" tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视HD
-http://zgntv.icu/live/xztv.php?id=0
 #EXTINF:-1 tvg-id="136" tvg-name="陕西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi.png" group-title="卫视",陕西卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.232:5140
-#EXTINF:-1 tvg-id="136" tvg-name="陕西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi.png" group-title="卫视",陕西卫视HD
+#EXTINF:-1 tvg-id="陕西卫视HD" tvg-name="陕西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi.png" group-title="卫视",陕西卫视HD
 http://r.jdshipin.com/2Y0Ve
 #EXTINF:-1 tvg-id="142" tvg-name="内蒙古卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.238:5140
-#EXTINF:-1 tvg-id="142" tvg-name="内蒙古卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古卫视HD
+#EXTINF:-1 tvg-id="内蒙古卫视HD" tvg-name="内蒙古卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古卫视HD
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-#EXTINF:-1 tvg-id="142" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古蒙古语卫视
+#EXTINF:-1 tvg-id="内蒙古蒙古语卫视" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="148" tvg-name="新疆卫视" tvg-logo="https://epg.deny.vip/ws/xinjiang.png" group-title="卫视",新疆卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.116:5140
@@ -150,20 +164,24 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.116:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.117:5140
 #EXTINF:-1 tvg-id="150" tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.82:5140
-#EXTINF:-1 tvg-id="150" tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视HD
+#EXTINF:-1 tvg-id="三沙卫视HD" tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视HD
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/厦门卫视.png" group-title="卫视",厦门卫视HD
 http://lu1.cc/c/tv/fjtv/kxm.php?id=xmws
-#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="" group-title="卫视",香港卫视
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳亚卫视" tvg-logo="" group-title="卫视",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD
+#EXTINF:-1 tvg-id="魅力足球HD" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.22:5140
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用）
+#EXTINF:-1 tvg-id="魅力足球HD（备用1）" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用1）
 https://live.goodiptv.club/api/bestv.php?id=/mlyyhd8m/8000000
+#EXTINF:-1 tvg-id="魅力足球HD（备用2）" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用2）
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/mlyyhd/4000000/d3.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/新视觉.png" group-title="上海",新视觉
 http://cfss.cc/ds/bst.php?id=Cf-60
+#EXTINF:-1 tvg-id="新视觉（备用）" tvg-name="新视觉" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/新视觉.png" group-title="上海",新视觉（备用）
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xsjhd8m/8000000/d3.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="上海",游戏风云HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="47" tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="上海",生活时尚HD
@@ -208,7 +226,21 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.135:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="67" tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="上海",东方财经HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.17:5140
-#EXTINF:-1 tvg-id="107" tvg-name="纪实科教" tvg-logo="https://epg.deny.vip/df/BTV-科教.png" group-title="北京",纪实科教HD
+#EXTINF:-1 tvg-id="北京文艺HD" tvg-name="北京文艺" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京文艺HD
+http://tv6.blcu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/7f99b1e611-0-0-3a5dbeed230ce6375ed9eb7e8cb1fd2a/index.m3u8
+#EXTINF:-1 tvg-id="北京影视HD" tvg-name="北京影视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="电影",北京影视HD
+http://tv6.blcu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/1062347a50-0-0-746931e8f15b57fbd756423832e78da5/index.m3u8
+#EXTINF:-1 tvg-id="北京影视HD（备份）" tvg-name="北京影视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="电影",北京影视HD（备份）
+http://www.icancloud.top:8888/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="北京财经HD" tvg-name="北京财经" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京财经HD
+http://tv6.blcu.edu.cn/liverespath/d50aa8fd16c241a3d3d6dd183f8bedbbc704e4fb/1f36feb631-0-0-d7cbf0601eb5c8fc466ba7058b9f135e/index.m3u8
+#EXTINF:-1 tvg-id="北京生活HD" tvg-name="北京生活" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京生活HD
+http://tv6.blcu.edu.cn/liverespath/4c8242ab983f6748fff969780e8d4c23a15b4853/32411b1cfb-0-0-42bbddc652dcae45279846619bd8adcf/index.m3u8
+#EXTINF:-1 tvg-id="北京新闻HD" tvg-name="北京新闻" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京新闻HD
+http://tv6.blcu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/0f1b239427-0-0-66f924aafb6e761a0181e4c0c02a937a/index.m3u8
+#EXTINF:-1 tvg-id="北京体育休闲HD" tvg-name="北京体育休闲" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",北京体育休闲HD
+http://tv6.blcu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c03a9c0310-0-0-d482a55f5669763491fa2370dc217f20/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="纪实科教" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="北京",纪实科教HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="112" tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="北京",卡酷少儿HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.8:5140
@@ -216,23 +248,23 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.8:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="152" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="广东",嘉佳卡通
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.48:5140
-#EXTINF:-1 tvg-id="152" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="广东",嘉佳卡通HD
+#EXTINF:-1 tvg-id="嘉佳卡通HD" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="广东",嘉佳卡通HD
 https://php.17186.eu.org/gdtv/web/jjkt.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东珠江.png" group-title="广东",广东珠江HD
+#EXTINF:-1 tvg-id="广东珠江HD" tvg-name="广东珠江" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东珠江.png" group-title="广东",广东珠江HD
 http://r.jdshipin.com/sE5vO
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东珠江.png" group-title="广东",广东珠江HD（备用）
+#EXTINF:-1 tvg-id="广东珠江HD（备用）" tvg-name="广东珠江" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东珠江.png" group-title="广东",广东珠江HD（备用）
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东新闻.png" group-title="广东",广东新闻HD
+#EXTINF:-1 tvg-id="广东新闻HD" tvg-name="广东新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东新闻.png" group-title="广东",广东新闻HD
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东影视.png" group-title="广东",广东影视HD
+#EXTINF:-1 tvg-id="广东影视HD" tvg-name="广东影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东影视.png" group-title="广东",广东影视HD
 https://php.17186.eu.org/gdtv/web/gdys.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东体育HD
+#EXTINF:-1 tvg-id="广东体育HD" tvg-name="广东体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东体育HD
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广州",广州综合HD
+#EXTINF:-1 tvg-id="广州综合HD" tvg-name="广州综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广州",广州综合HD
 https://justsometime.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州南国都市.png" group-title="广州",南国都市HD
 https://justsometime.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广州",广州影视HD
+#EXTINF:-1 tvg-id="广州影视HD" tvg-name="广州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广州",广州影视HD
 https://justsometime.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="江苏",财富天下
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.7:5140
@@ -270,83 +302,83 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.38:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.39:5140
 #EXTINF:-1 tvg-id="116" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="UHD",欢笑剧场4K
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.4:5140
-#EXTINF:-1 tvg-id="BesTV4K" tvg-name="BesTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K
+#EXTINF:-1 tvg-id="百视通4K" tvg-name="BesTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="BesTV4K" tvg-name="BesTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K（备用）
+#EXTINF:-1 tvg-id="百视通4K（备用）" tvg-name="BesTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K（备用）
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="百视通4K电影" tvg-logo="" group-title="UHD",百视通4K电影
+#EXTINF:-1 tvg-id="百视通4K电影" tvg-name="百视通4K电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K电影
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="百视通4K纪实" tvg-logo="" group-title="UHD",百视通4K纪实
+#EXTINF:-1 tvg-id="百视通4K纪实" tvg-name="百视通4K纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K纪实
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="百视通4K儿童" tvg-logo="" group-title="UHD",百视通4K儿童
+#EXTINF:-1 tvg-id="百视通4K儿童" tvg-name="百视通4K儿童" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K儿童
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/纯享4K.png" group-title="UHD",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/纯享4K.png" group-title="UHD",纯享4K（备用）
+#EXTINF:-1 tvg-id="纯享4K（备用）" tvg-name="纯享4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/纯享4K.png" group-title="UHD",纯享4K（备用）
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用1）
+#EXTINF:-1 tvg-id="CCTV-4K（备用1）" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用1）
 http://lu1.cc/c/tv/php/cctv4k.php?id=4khd
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用2）
+#EXTINF:-1 tvg-id="CCTV-4K（备用2）" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用2）
 http://r.jdshipin.com/krMB5
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用3）
+#EXTINF:-1 tvg-id="CCTV-4K（备用3）" tvg-name="CCTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用3）
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K
+#EXTINF:-1 tvg-id="CCTV-16.4K" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.12:5140
-#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用1）
+#EXTINF:-1 tvg-id="CCTV-16.4K（备用1）" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用1）
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用2）
+#EXTINF:-1 tvg-id="CCTV-16.4K（备用2）" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用2）
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（18M）
+#EXTINF:-1 tvg-id="CCTV-16.4K（18M）" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（18M）
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（25M）
+#EXTINF:-1 tvg-id="CCTV-16.4K（25M）" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（25M）
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（34M）
+#EXTINF:-1 tvg-id="CCTV-16.4K（34M）" tvg-name="CCTV-16" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（34M）
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV8K.png" group-title="UHD",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K
 http://r.jdshipin.com/ln4xk
-#EXTINF:-1 tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用1）
+#EXTINF:-1 tvg-id="咪咕体育4K（备用1）" tvg-name="咪咕体育4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用1）
 http://r.jdshipin.com/EmWIN
-#EXTINF:-1 tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用2）
+#EXTINF:-1 tvg-id="咪咕体育4K（备用2）" tvg-name="咪咕体育4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用2）
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K修复.png" group-title="UHD",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱上4K.png" group-title="UHD",爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱上4K.png" group-title="UHD",爱上4K（备用）
+#EXTINF:-1 tvg-id="爱上4K（备用）" tvg-name="爱上4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱上4K.png" group-title="UHD",爱上4K（备用）
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视
 http://r.jdshipin.com/Lqdwf
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用）
+#EXTINF:-1 tvg-id="华数4K影视（备用）" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用）
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京纪实科教.png" group-title="UHD",北京纪实科教8K
+#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京纪实科教.png" group-title="UHD",北京纪实科教8K
 http://159.75.85.63:6798
-#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动8K测试.png" group-title="UHD",江苏移动8K测试
+#EXTINF:-1 tvg-id="江苏移动8K测试" tvg-name="江苏8K测试" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动8K测试.png" group-title="UHD",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/苏州4K.png" group-title="UHD",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="斗鱼4K影院" tvg-name="斗鱼4K影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/斗鱼TV.png" group-title="UHD",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视中文台.png" group-title="香港",凤凰中文HD
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视中文台.png" group-title="香港",凤凰中文HD（备用1）
+#EXTINF:-1 tvg-id="凤凰中文（备用1）" tvg-name="凤凰中文" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视中文台.png" group-title="香港",凤凰中文（备用1）
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视中文台.png" group-title="香港",凤凰中文HD（备用2）
+#EXTINF:-1 tvg-id="凤凰中文（备用2）" tvg-name="凤凰中文" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视中文台.png" group-title="香港",凤凰中文（备用2）
 http://www.terrykang.cn:5678/sxg.php?id=test1_4000
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯HD
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯HD（备用1）
+#EXTINF:-1 tvg-id="凤凰资讯（备用1）" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯（备用1）
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯HD（备用2）
+#EXTINF:-1 tvg-id="凤凰资讯（备用2）" tvg-name="凤凰资讯" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯（备用2）
 http://www.terrykang.cn:5678/sxg.php?id=test2_4000
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="香港",凤凰香港HD
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="香港",凤凰香港HD（备用1）
+#EXTINF:-1 tvg-id="凤凰香港（备用1）" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="香港",凤凰香港（备用1）
 http://r.jdshipin.com/NfC0f
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="香港",凤凰香港HD（备用2）
+#EXTINF:-1 tvg-id="凤凰香港（备用2）" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="香港",凤凰香港（备用2）
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="" group-title="香港",无线新闻
 http://r.jdshipin.com/CkuBd
@@ -370,46 +402,58 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 tvg-id="Channel[V]" tvg-name="Channel[V]" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/Channel[V].png" group-title="香港",Channel [V]
 http://live.hust.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影HD
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影
 http://r.jdshipin.com/XIjta
-#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影HD（备用）
+#EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影（备用）
 http://r.jdshipin.com/vFgDS
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="电影",4K超高清电影HD
+#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="电影",4K超高清电影
 http://r.jdshipin.com/5DWJk
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="电影",4K超高清电影HD（备用）
+#EXTINF:-1 tvg-id="4K超高清电影（备用）" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="电影",4K超高清电影（备用）
 http://r.jdshipin.com/B7sfp
-#EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/M1905电影网.png" group-title="电影",M1905电影网HD
+#EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/M1905电影网.png" group-title="电影",M1905电影网
 http://nas.jdshipin.com:8801/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="江苏移动影视轮播" tvg-name="江苏移动影视轮播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动影视轮播.png" group-title="电影",江苏移动影视轮播HD
+#EXTINF:-1 tvg-id="江苏移动影视轮播" tvg-name="江苏移动影视轮播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动影视轮播.png" group-title="电影",江苏移动影视轮播
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京影视.png" group-title="电影",北京影视HD
-http://tv6.blcu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/1062347a50-0-0-746931e8f15b57fbd756423832e78da5/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑龙江影视.png" group-title="电影",黑龙江影视HD
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑龙江影视.png" group-title="电影",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/重庆影视.png" group-title="电影",重庆影视HD
 https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
-#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/西藏影视文化.png" group-title="电影",西藏影视文化HD
+#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/西藏影视文化.png" group-title="电影",西藏影视文化
 http://zgntv.icu/live/xztv.php?id=2
-#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏影视.png" group-title="电影",江苏影视HD
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏影视.png" group-title="电影",江苏影视
 http://lu1.cc/c/tv/jstv/jstv.php?id=jsys
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖北影视.png" group-title="电影",湖北影视HD
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖北影视.png" group-title="电影",湖北影视
 http://lu1.cc/c/tv/hubtv/cjy.php?id=hbys
-#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安徽影视.png" group-title="电影",安徽影视HD
+#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安徽影视.png" group-title="电影",安徽影视
 http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓电影.png" group-title="电影",黑莓电影HD
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓电影.png" group-title="电影",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓动画.png" group-title="电影",黑莓动画HD
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓动画.png" group-title="电影",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC高清电影.png" group-title="电影",CHC高清电影HD
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC高清电影.png" group-title="电影",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC动作电影.png" group-title="电影",CHC动作电影HD
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC动作电影.png" group-title="电影",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC家庭影院.png" group-title="电影",CHC家庭影院HD
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="" group-title="电影",澳门莲花
 http://epg.112114.xyz/lotus
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="电影",星空卫视
 http://live.hust.edu.cn/hls/startv.m3u8
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",华语影院
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hyyy8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",青春动漫
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/qcdm8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",宝宝动画
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/bbdh8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",星光影院
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xgyy8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",谍战剧场
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/dzjc8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",全球大片
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/qqdp8m/8000000/d3.m3u8
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",热门剧场
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/rmjc8m/8000000/d3.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级综艺.png" group-title="NEWTV",超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="超级体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级体育.png" group-title="NEWTV",超级体育
