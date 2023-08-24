@@ -214,7 +214,7 @@ https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.211:5140
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="68" tvg-name="金色学堂" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="上海",金色学堂HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.9:5140
-#EXTINF:-1 tvg-id="" tvg-name="上海导视" tvg-logo="" group-title="上海",上海导视
+#EXTINF:-1 tvg-id="上海导视" tvg-name="上海导视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/东方卫视.png" group-title="上海",上海导视
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.3.240:5140
 #EXTINF:-1 tvg-id="65" tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="上海",上海教育HD
 https://iptvsh.stefanluo.xyz:8443/rtp/239.45.0.13:5140
