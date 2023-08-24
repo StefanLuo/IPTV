@@ -436,9 +436,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="" group-title="电影",澳门莲花
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/澳门莲花卫视.png" group-title="卫视",莲花卫视
 http://epg.112114.xyz/lotus
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="电影",星空卫视
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/星空卫视.png" group-title="卫视",星空卫视
 http://live.hust.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",华语影院
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hyyy8m/8000000/d3.m3u8
