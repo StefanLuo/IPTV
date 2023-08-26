@@ -454,7 +454,7 @@ http://live.hust.edu.cn/hls/channelv.m3u8
 https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="MyTV SUPER" tvg-name="MyTV SUPER" tvg-logo="" group-title="港澳",MyTV SUPER
 https://sc2022.stream-link.org/tv2306.php?id=h22
-#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="" group-title="港澳",千禧经典
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/翡翠台.png" group-title="港澳",千禧经典
 https://sc2022.stream-link.org/tv2306.php?id=h24
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影
 http://r.jdshipin.com/XIjta
