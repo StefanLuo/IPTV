@@ -720,7 +720,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t12
 http://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="台湾",TVBS新闻
 http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 tvg-id="TVBS新闻HD" tvg-name="TVBS新闻HD" tvg-logo="" group-title="台湾",TVBS新闻HD
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="" group-title="台湾",TVBS
 http://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="" group-title="台湾",TVBS欢乐
 http://sc2022.stream-link.org/tv2306.php?id=t16
