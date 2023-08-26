@@ -415,9 +415,11 @@ http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台（备用）" tvg-name="翡翠台" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/翡翠台.png" group-title="港澳",翡翠台（备用）
 https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/TVB星河.png" group-title="港澳",TVB星河
-https://sc2022.stream-link.org/tv2306.php?id=h06
-#EXTINF:-1 tvg-id="TVB星河（备用）" tvg-name="TVB星河" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/TVB星河.png" group-title="港澳",TVB星河（备用）
+https://sc2022.stream-link.org/tv2306.php?id=h23
+#EXTINF:-1 tvg-id="TVB星河（备用1）" tvg-name="TVB星河" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/TVB星河.png" group-title="港澳",TVB星河（备用1）
 http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-id="TVB星河（备用2）" tvg-name="TVB星河" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/TVB星河.png" group-title="港澳",TVB星河（备用2）
+https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/明珠台.png" group-title="港澳",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/J2.png" group-title="港澳",J2
@@ -426,6 +428,8 @@ http://r.jdshipin.com/Nr5jq
 https://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/VIUTV.png" group-title="港澳",VIUTV
 http://r.jdshipin.com/vSJvl
+#EXTINF:-1 tvg-id="VIUTV Six" tvg-name="VIUTV Six" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/VIUTV.png" group-title="港澳",VIUTV Six
+https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.m3u8
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/RTHK31.png" group-title="港澳",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHK31（备用）" tvg-name="RTHK31" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/RTHK31.png" group-title="港澳",RTHK31（备用）
@@ -450,6 +454,8 @@ http://live.hust.edu.cn/hls/channelv.m3u8
 https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="MyTV SUPER" tvg-name="MyTV SUPER" tvg-logo="" group-title="港澳",MyTV SUPER
 https://sc2022.stream-link.org/tv2306.php?id=h22
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="" group-title="港澳",千禧经典
+https://sc2022.stream-link.org/tv2306.php?id=h24
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影
 http://r.jdshipin.com/XIjta
 #EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影（备用）
