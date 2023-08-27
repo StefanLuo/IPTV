@@ -746,3 +746,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t22
 http://sc2022.stream-link.org/tv2306.php?id=t23
 #EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/民视电视台.png" group-title="台湾",民视旅游
 http://sc2022.stream-link.org/tv2306.php?id=t24
+#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/高清娱乐.png" group-title="其他",高清娱乐
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/漫游世界.png" group-title="其他",漫游世界
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
