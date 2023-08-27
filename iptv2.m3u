@@ -270,7 +270,7 @@ https://justsometime.gztv.com/sec/yingshi.m3u8
 http://192.168.2.1:4022/rtp/239.45.0.7:5140
 #EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/快乐垂钓.png" group-title="湖南",快乐垂钓HD
 http://192.168.2.1:4022/rtp/239.45.3.12:5140
-#EXTINF:-1 tvg-id="44" tvg-name="茶频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/茶.png" group-title="湖南",茶频道HD
+#EXTINF:-1 tvg-id="44" tvg-name="茶频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/茶频道.png" group-title="湖南",茶频道HD
 http://192.168.2.1:4022/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="106" tvg-name="金鹰纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/金鹰纪实.png" group-title="湖南",金鹰纪实HD
 http://192.168.2.1:4022/rtp/239.45.1.45:5140
