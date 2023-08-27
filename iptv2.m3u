@@ -686,8 +686,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="爱院线" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱院线.png" group-title="IHOT",爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱院线" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱院线.png" group-title="IHOT",爱院线
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/东森电视台.png" group-title="台湾",东森新闻
 http://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/东森电视台.png" group-title="台湾",东森财经新闻
