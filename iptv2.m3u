@@ -616,7 +616,7 @@ https://tv.lanjingfm.com/cctbn/hainan.m3u8
 https://live.goodiptv.club/api/cqyx.php?id=dongman
 #EXTINF:-1 tvg-id="" tvg-name="京视剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/京视剧场.png" group-title="数字",京视剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="" group-title="数字",精彩影视
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/精彩影视.png" group-title="数字",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/哒啵.png" group-title="数字",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
