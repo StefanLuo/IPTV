@@ -208,11 +208,11 @@ http://192.168.2.1:4022/rtp/239.45.3.209:5140
 http://192.168.2.1:4022/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/劲爆体育.png" group-title="上海",劲爆体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="60" tvg-name="第一财经" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/第一财经.png" group-title="上海",第一财经HD
+#EXTINF:-1 tvg-id="60" tvg-name="第一财经" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/上海第一财经.png" group-title="上海",第一财经HD
 http://192.168.2.1:4022/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="61" tvg-name="外语频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/上海ICS外语.png" group-title="上海",外语频道HD
 http://192.168.2.1:4022/rtp/239.45.1.127:5140
-#EXTINF:-1 tvg-id="68" tvg-name="金色学堂" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/金色学堂.png" group-title="上海",金色学堂HD
+#EXTINF:-1 tvg-id="68" tvg-name="金色学堂" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/SITV金色学堂.png" group-title="上海",金色学堂HD
 http://192.168.2.1:4022/rtp/239.45.0.9:5140
 #EXTINF:-1 tvg-id="上海导视" tvg-name="上海导视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/上海导视.png" group-title="上海",上海导视
 http://192.168.2.1:4022/rtp/239.45.3.240:5140
@@ -238,7 +238,7 @@ http://tv6.blcu.edu.cn/liverespath/d50aa8fd16c241a3d3d6dd183f8bedbbc704e4fb/1f36
 http://tv6.blcu.edu.cn/liverespath/4c8242ab983f6748fff969780e8d4c23a15b4853/32411b1cfb-0-0-42bbddc652dcae45279846619bd8adcf/index.m3u8
 #EXTINF:-1 tvg-id="北京新闻HD" tvg-name="北京新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京新闻.png" group-title="北京",北京新闻HD
 http://tv6.blcu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/0f1b239427-0-0-66f924aafb6e761a0181e4c0c02a937a/index.m3u8
-#EXTINF:-1 tvg-id="北京体育休闲HD" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京休闲体育.png" group-title="北京",北京体育休闲HD
+#EXTINF:-1 tvg-id="北京体育休闲HD" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京体育休闲.png" group-title="北京",北京体育休闲HD
 http://tv6.blcu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c03a9c0310-0-0-d482a55f5669763491fa2370dc217f20/index.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="纪实科教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京纪实科教.png" group-title="北京",纪实科教HD
 http://192.168.2.1:4022/rtp/239.45.1.14:5140
