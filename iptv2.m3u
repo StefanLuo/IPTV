@@ -164,7 +164,9 @@ http://192.168.2.1:4022/rtp/239.45.1.117:5140
 http://192.168.2.1:4022/rtp/239.45.1.82:5140
 #EXTINF:-1 tvg-id="三沙卫视HD" tvg-name="三沙卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/三沙卫视.png" group-title="卫视",三沙卫视HD
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/厦门卫视.png" group-title="卫视",厦门卫视HD
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+#EXTINF:-1 tvg-id="厦门卫视HD" tvg-name="厦门卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/厦门卫视.png" group-title="卫视",厦门卫视HD
 http://lu1.cc/c/tv/fjtv/kxm.php?id=xmws
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/香港卫视.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
