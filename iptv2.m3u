@@ -173,7 +173,7 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="魅力足球HD" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD
 http://192.168.2.1:4022/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="魅力足球HD（备用1）" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用1）
-https://live.goodiptv.club/api/bestv.php?id=/mlyyhd8m/8000000
+https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
 #EXTINF:-1 tvg-id="魅力足球HD（备用2）" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用2）
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/mlyyhd/4000000/d3.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/新视觉.png" group-title="上海",新视觉
@@ -236,8 +236,20 @@ http://tv6.blcu.edu.cn/liverespath/4c8242ab983f6748fff969780e8d4c23a15b4853/3241
 http://tv6.blcu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/0f1b239427-0-0-66f924aafb6e761a0181e4c0c02a937a/index.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京体育休闲.png" group-title="北京",北京体育休闲HD
 http://tv6.blcu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c03a9c0310-0-0-d482a55f5669763491fa2370dc217f20/index.m3u8
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京IPTV淘电影.png" group-title="北京",北京IPTV淘电影HD
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD
 http://r.jdshipin.com/OeHMu
+#EXTINF:-1 tvg-id="北京IPTV淘电影（备用）" tvg-name="北京IPTV淘电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD（备用）
+http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-name="北京IPTV淘BABY" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘BABY
+http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="北京IPTV萌宠TV" tvg-name="北京IPTV萌宠TV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV萌宠TV
+http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+#EXTINF:-1 tvg-id="北京IPTV淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘精彩
+http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘剧场
+http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘娱乐
+http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="107" tvg-name="纪实科教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京纪实科教.png" group-title="北京",纪实科教HD
 http://192.168.2.1:4022/rtp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="112" tvg-name="卡酷少儿" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/卡酷少儿.png" group-title="北京",卡酷少儿HD
