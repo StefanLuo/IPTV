@@ -322,9 +322,9 @@ http://192.168.2.1:4022/rtp/239.45.1.38:5140
 http://192.168.2.1:4022/rtp/239.45.1.39:5140
 #EXTINF:-1 tvg-id="116" tvg-name="欢笑剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/欢笑剧场.png" group-title="UHD",欢笑剧场4K
 http://192.168.2.1:4022/rtp/239.45.1.4:5140
-#EXTINF:-1 tvg-id="百视通4K" tvg-name="BesTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K
+#EXTINF:-1 tvg-id="百视通" tvg-name="百视通" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",百视通
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="百视通4K（备用）" tvg-name="BesTV4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K（备用）
+#EXTINF:-1 tvg-id="百视通（备用）" tvg-name="百视通" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",百视通（备用）
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 #EXTINF:-1 tvg-id="百视通4K电影" tvg-name="百视通4K电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K电影
 http://192.168.2.1:4022/rtp/239.45.3.107:5140
