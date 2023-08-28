@@ -454,39 +454,43 @@ https://sc2022.stream-link.org/tv2306.php?id=h08
 https://sc2022.stream-link.org/tv2306.php?id=h22
 #EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/翡翠台.png" group-title="港澳",千禧经典
 https://sc2022.stream-link.org/tv2306.php?id=h24
-#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",武术世界
+http://www.terrykang.cn:5678/sxg.php?id=wssj_4000
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",文物宝库
+http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",峨眉电影
 http://r.jdshipin.com/XIjta
-#EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="电影",峨眉电影（备用）
+#EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",峨眉电影（备用）
 http://r.jdshipin.com/vFgDS
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="电影",4K超高清电影
+#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="影视",4K超高清电影
 http://r.jdshipin.com/5DWJk
-#EXTINF:-1 tvg-id="4K超高清电影（备用）" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="电影",4K超高清电影（备用）
+#EXTINF:-1 tvg-id="4K超高清电影（备用）" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="影视",4K超高清电影（备用）
 http://r.jdshipin.com/B7sfp
-#EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/M1905电影网.png" group-title="电影",M1905电影网
+#EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/M1905电影网.png" group-title="影视",M1905电影网
 http://nas.jdshipin.com:8801/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="江苏移动影视轮播" tvg-name="江苏移动影视轮播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动影视轮播.png" group-title="电影",江苏移动影视轮播
+#EXTINF:-1 tvg-id="江苏移动影视轮播" tvg-name="江苏移动影视轮播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动影视轮播.png" group-title="影视",江苏移动影视轮播
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑龙江影视.png" group-title="电影",黑龙江影视
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑龙江影视.png" group-title="影视",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/重庆影视.png" group-title="电影",重庆影视HD
+#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/重庆影视.png" group-title="影视",重庆影视HD
 https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
-#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/西藏影视文化.png" group-title="电影",西藏影视文化
+#EXTINF:-1 tvg-id="西藏影视文化" tvg-name="西藏影视文化" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/西藏影视文化.png" group-title="影视",西藏影视文化
 http://zgntv.icu/live/xztv.php?id=2
-#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏影视.png" group-title="电影",江苏影视
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏影视.png" group-title="影视",江苏影视
 http://lu1.cc/c/tv/jstv/jstv.php?id=jsys
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖北影视.png" group-title="电影",湖北影视
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖北影视.png" group-title="影视",湖北影视
 http://lu1.cc/c/tv/hubtv/cjy.php?id=hbys
-#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安徽影视.png" group-title="电影",安徽影视
+#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安徽影视.png" group-title="影视",安徽影视
 http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓电影.png" group-title="电影",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓电影.png" group-title="影视",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓动画.png" group-title="电影",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓动画.png" group-title="影视",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC高清电影.png" group-title="电影",CHC高清电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC高清电影.png" group-title="影视",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC动作电影.png" group-title="电影",CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC家庭影院.png" group-title="电影",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/澳门莲花卫视.png" group-title="卫视",莲花卫视
 http://epg.112114.xyz/lotus
@@ -494,19 +498,19 @@ http://epg.112114.xyz/lotus
 https://sc2022.stream-link.org/tv2306.php?id=h21
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/星空卫视.png" group-title="卫视",星空卫视
 http://live.hust.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",华语影院
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",华语影院
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hyyy8m/8000000/d3.m3u8
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",青春动漫
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",青春动漫
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/qcdm8m/8000000/d3.m3u8
-#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",宝宝动画
+#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",宝宝动画
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/bbdh8m/8000000/d3.m3u8
-#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",星光影院
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",星光影院
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xgyy8m/8000000/d3.m3u8
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",谍战剧场
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",谍战剧场
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/dzjc8m/8000000/d3.m3u8
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",全球大片
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",全球大片
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/qqdp8m/8000000/d3.m3u8
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="电影",热门剧场
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",热门剧场
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/rmjc8m/8000000/d3.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级综艺.png" group-title="NEWTV",NEWTV超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
