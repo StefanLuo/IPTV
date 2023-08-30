@@ -133,7 +133,7 @@ https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="山西卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山西卫视.png" group-title="卫视",山西卫视
 http://192.168.2.1:4022/rtp/239.45.1.229:5140
 #EXTINF:-1 tvg-id="山西卫视HD" tvg-name="山西卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山西卫视.png" group-title="卫视",山西卫视HD
-http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
 #EXTINF:-1 tvg-id="27214" tvg-name="青海卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/青海卫视.png" group-title="卫视",青海卫视
 http://192.168.2.1:4022/rtp/239.45.1.230:5140
 #EXTINF:-1 tvg-id="青海卫视HD" tvg-name="青海卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/青海卫视.png" group-title="卫视",青海卫视HD
