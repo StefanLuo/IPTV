@@ -225,17 +225,23 @@ http://192.168.2.1:4022/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="67" tvg-name="东方财经" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/东方财经.png" group-title="上海",东方财经HD
 http://192.168.2.1:4022/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京文艺.png" group-title="北京",北京文艺HD
-http://tv6.blcu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/7f99b1e611-0-0-3a5dbeed230ce6375ed9eb7e8cb1fd2a/index.m3u8
+#http://tv6.blcu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/7f99b1e611-0-0-3a5dbeed230ce6375ed9eb7e8cb1fd2a/index.m3u8
+http://live.0472.org/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京影视.png" group-title="北京",北京影视HD
-http://tv6.blcu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/1062347a50-0-0-746931e8f15b57fbd756423832e78da5/index.m3u8
+#http://tv6.blcu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/1062347a50-0-0-746931e8f15b57fbd756423832e78da5/index.m3u8
+http://live.0472.org/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京财经.png" group-title="北京",北京财经HD
-http://tv6.blcu.edu.cn/liverespath/d50aa8fd16c241a3d3d6dd183f8bedbbc704e4fb/1f36feb631-0-0-d7cbf0601eb5c8fc466ba7058b9f135e/index.m3u8
+#http://tv6.blcu.edu.cn/liverespath/d50aa8fd16c241a3d3d6dd183f8bedbbc704e4fb/1f36feb631-0-0-d7cbf0601eb5c8fc466ba7058b9f135e/index.m3u8
+http://live.0472.org/hls/btv5hd.m3u8
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京生活.png" group-title="北京",北京生活HD
-http://tv6.blcu.edu.cn/liverespath/4c8242ab983f6748fff969780e8d4c23a15b4853/32411b1cfb-0-0-42bbddc652dcae45279846619bd8adcf/index.m3u8
+#http://tv6.blcu.edu.cn/liverespath/4c8242ab983f6748fff969780e8d4c23a15b4853/32411b1cfb-0-0-42bbddc652dcae45279846619bd8adcf/index.m3u8
+http://live.0472.org/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京新闻.png" group-title="北京",北京新闻HD
-http://tv6.blcu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/0f1b239427-0-0-66f924aafb6e761a0181e4c0c02a937a/index.m3u8
+#http://tv6.blcu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/0f1b239427-0-0-66f924aafb6e761a0181e4c0c02a937a/index.m3u8
+http://live.0472.org/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京体育休闲.png" group-title="北京",北京体育休闲HD
-http://tv6.blcu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c03a9c0310-0-0-d482a55f5669763491fa2370dc217f20/index.m3u8
+#http://tv6.blcu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/c03a9c0310-0-0-d482a55f5669763491fa2370dc217f20/index.m3u8
+http://live.0472.org/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD
 http://r.jdshipin.com/OeHMu
 #EXTINF:-1 tvg-id="北京IPTV淘电影（备用）" tvg-name="北京IPTV淘电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD（备用）
@@ -416,6 +422,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://r.jdshipin.com/NfC0f
 #EXTINF:-1 tvg-id="凤凰香港（备用2）" tvg-name="凤凰香港" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="港澳",凤凰香港（备用2）
 http://r.jdshipin.com/yDoTN
+#EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/凤凰卫视香港台.png" group-title="港澳",凤凰电影
+http://live.0472.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/无线新闻.png" group-title="港澳",无线新闻
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="无线新闻（备用）" tvg-name="无线新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/无线新闻.png" group-title="港澳",无线新闻（备用）
