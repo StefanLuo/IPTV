@@ -611,7 +611,8 @@ http://www.terrykang.cn:5678/sxg.php?id=wssj_4000
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",文物宝库
 http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
 #EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",梨园
-https://pi.0472.org/tv/hn.php?id=154
+#https://pi.0472.org/tv/hn.php?id=154
+http://mmitv.top/igmp/multicast.php?id=lypd&ext=bee7e146
 #EXTINF:-1 tvg-id="斗鱼4K影院HD" tvg-name="斗鱼4K影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/斗鱼TV.png" group-title="影视",斗鱼4K影院HD
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",峨眉电影
