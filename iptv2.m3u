@@ -322,6 +322,8 @@ http://mmitv.top/igmp/multicast.php?id=gzys&ext=ed3d717d
 http://mmitv.top/igmp/multicast.php?id=gzfz&ext=c032a565
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州竞赛HD
 http://mmitv.top/igmp/multicast.php?id=gzjs&ext=68de4f60
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",佛山影视HD
+http://mmitv.top/igmp/multicast.php?id=fsys&ext=db4cfc37
 #EXTINF:-1 tvg-id="42" tvg-name="财富天下" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/财富天下.png" group-title="数字",财富天下
 http://192.168.2.1:4022/rtp/239.45.0.7:5140
 #EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/快乐垂钓.png" group-title="湖南",快乐垂钓HD
