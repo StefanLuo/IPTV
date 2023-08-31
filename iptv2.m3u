@@ -322,8 +322,6 @@ http://mmitv.top/igmp/multicast.php?id=gzys&ext=ed3d717d
 http://mmitv.top/igmp/multicast.php?id=gzfz&ext=c032a565
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州竞赛HD
 http://mmitv.top/igmp/multicast.php?id=gzjs&ext=68de4f60
-#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",佛山影视HD
-http://mmitv.top/igmp/multicast.php?id=fsys&ext=db4cfc37
 #EXTINF:-1 tvg-id="42" tvg-name="财富天下" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/财富天下.png" group-title="数字",财富天下
 http://192.168.2.1:4022/rtp/239.45.0.7:5140
 #EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/快乐垂钓.png" group-title="湖南",快乐垂钓HD
@@ -644,6 +642,8 @@ http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 http://mmitv.top/igmp/multicast.php?id=htys&ext=5446c882
 #EXTINF:-1 tvg-id="陕西西部电影" tvg-name="陕西西部电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/陕西卫视.png" group-title="影视",陕西西部电影
 http://mmitv.top/igmp/multicast.php?id=sxxbdy&ext=573ad667
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东卫视.png" group-title="影视",佛山影视HD
+http://mmitv.top/igmp/multicast.php?id=fsys&ext=db4cfc37
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓电影.png" group-title="影视",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑莓动画.png" group-title="影视",黑莓动画
