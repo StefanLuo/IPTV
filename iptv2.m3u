@@ -480,6 +480,8 @@ http://mmitv.top/igmp/multicast.php?id=jjyd-4k&ext=8065dc31
 http://mmitv.top/igmp/multicast.php?id=xy-4k&ext=9a42366c
 #EXTINF:-1 tvg-id="4K花园" tvg-name="4K花园" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",4K花园
 http://mmitv.top/igmp/multicast.php?id=4khy&ext=3276f967
+#EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/云南卫视.png" group-title="UHD",云南4K
+http://mmitv.top/igmp/multicast.php?id=yn-4k&ext=59a3a455
 #EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视
 http://r.jdshipin.com/Lqdwf
 #EXTINF:-1 tvg-id="华数4K影视（备用）" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用）
