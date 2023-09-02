@@ -48,13 +48,13 @@ http://192.168.2.1:4022/rtp/239.45.1.194:5140
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTNDoc.png" group-title="央视",CGTN纪录
 http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿拉伯语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227095/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227078/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN法语.png" group-title="央视",CGTN法语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN西语.png" group-title="央视",CGTN西班牙语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西班牙语" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CGTN西语.png" group-title="央视",CGTN西班牙语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227098/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="100" tvg-name="中国教育-1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育1台.png" group-title="央视",中国教育-1HD
 http://192.168.2.1:4022/rtp/239.45.1.125:5140
