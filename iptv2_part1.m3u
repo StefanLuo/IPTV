@@ -64,7 +64,7 @@ http://192.168.2.1:4022/rtp/239.45.1.52:5140
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="中国教育-4" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/中国教育4台.png" group-title="央视",中国教育-4HD
 http://192.168.2.1:4022/rtp/239.45.0.21:5140
-#EXTINF:-1 tvg-id="早期教育HD" tvg-name="早期教育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/早期教育.png" group-title="央视",早期教育HD
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/早期教育.png" group-title="央视",早期教育HD
 https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 #EXTINF:-1 tvg-id="53" tvg-name="东方卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/东方卫视.png" group-title="卫视",东方卫视HD
 http://192.168.2.1:4022/rtp/239.45.3.146:5140
