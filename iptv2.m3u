@@ -645,11 +645,11 @@ http://mmitv.top/igmp/multicast.php?id=hends-1&ext=ade2e926
 http://mmitv.top/igmp/multicast.php?id=jczy&ext=de1addca
 #EXTINF:-1 tvg-id="斗鱼4K影院HD" tvg-name="斗鱼4K影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/斗鱼TV.png" group-title="影视",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",峨眉电影
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/四川卫视.png" group-title="影视",峨眉电影
 http://r.jdshipin.com/XIjta
-#EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",峨眉电影（备用）
+#EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/四川卫视.png" group-title="影视",峨眉电影（备用）
 http://r.jdshipin.com/vFgDS
-#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",四川影视文艺
+#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/四川卫视.png" group-title="影视",四川影视文艺
 http://mmitv.top/igmp/multicast.php?id=scyswy&ext=567466f2
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="影视",4K超高清电影
 http://r.jdshipin.com/5DWJk
