@@ -335,17 +335,17 @@ http://192.168.2.1:4022/rtp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南经视.png" group-title="湖南",湖南经视HD
 http://mmitv.top/igmp/multicast.php?id=hnjs&ext=fb55c37a
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南都市.png" group-title="湖南",湖南都市HD
-http://mmitv.top/igmp/multicast.php?id=hnds&ext=150e1fdb
+http://mmitv.top/igmp/multicast.php?id=hunds&ext=6b55792e
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南电视剧.png" group-title="湖南",湖南电视剧HD
-http://mmitv.top/igmp/multicast.php?id=hndsj&ext=57827eb0
+http://mmitv.top/igmp/multicast.php?id=hndsj&ext=14ce76cc
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南电影.png" group-title="湖南",湖南电影HD
 http://mmitv.top/igmp/multicast.php?id=hndy&ext=8e631b8e
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南娱乐.png" group-title="湖南",湖南娱乐HD
 http://mmitv.top/igmp/multicast.php?id=hnyl&ext=00d3eb34
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南爱晚.png" group-title="湖南",湖南爱晚HD
-http://mmitv.top/igmp/multicast.php?id=hngg&ext=97db25f1
+http://mmitv.top/igmp/multicast.php?id=hngg&ext=4f97be91
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南国际.png" group-title="湖南",湖南国际HD
-http://mmitv.top/igmp/multicast.php?id=hngj&ext=68b3a65b
+http://mmitv.top/igmp/multicast.php?id=hngj&ext=abce309e
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南国际.png" group-title="湖南",湖南教育HD
 http://mmitv.top/igmp/multicast.php?id=hnjy&ext=875aaf2c
 #EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/长沙新闻综合.png" group-title="湖南",长沙新闻综合HD
