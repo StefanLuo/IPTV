@@ -612,9 +612,35 @@ https://sc2022.stream-link.org/tv2306.php?id=h24
 http://www.terrykang.cn:5678/sxg.php?id=wssj_4000
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",文物宝库
 http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
-#EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",梨园
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",梨园
 #https://pi.0472.org/tv/hn.php?id=154
 http://mmitv.top/igmp/multicast.php?id=lypd&ext=bee7e146
+#EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南乡村
+http://mmitv.top/igmp/multicast.php?id=hnxc&ext=9148f55c
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南公共
+http://mmitv.top/igmp/multicast.php?id=hengg&ext=50123089
+#EXTINF:-1 tvg-id="河南功夫" tvg-name="河南功夫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南功夫
+http://mmitv.top/igmp/multicast.php?id=hngf&ext=d3e4da7f
+#EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南国际
+http://mmitv.top/igmp/multicast.php?id=hengj&ext=895648c2
+#EXTINF:-1 tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南导视
+http://mmitv.top/igmp/multicast.php?id=hends-0&ext=68378c1d
+#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南戏曲
+http://mmitv.top/igmp/multicast.php?id=hnxq&ext=3d183ef5
+#EXTINF:-1 tvg-id="河南收藏天下" tvg-name="河南收藏天下" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南收藏天下
+http://mmitv.top/igmp/multicast.php?id=hnsztx&ext=dd5733be
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南新闻
+http://mmitv.top/igmp/multicast.php?id=hnxw&ext=6d095b70
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南民生
+http://mmitv.top/igmp/multicast.php?id=hnms&ext=f10a36fe
+#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南法治
+http://mmitv.top/igmp/multicast.php?id=hnfz&ext=0dcc1354
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南电视剧
+http://mmitv.top/igmp/multicast.php?id=hendsj&ext=6682f658
+#EXTINF:-1 tvg-id="河南移动" tvg-name="河南移动" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南移动
+http://mmitv.top/igmp/multicast.php?id=hnyd&ext=03bcb22c
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南都市
+http://mmitv.top/igmp/multicast.php?id=hends-1&ext=ade2e926
 #EXTINF:-1 tvg-id="斗鱼4K影院HD" tvg-name="斗鱼4K影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/斗鱼TV.png" group-title="影视",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/峨眉电影.png" group-title="影视",峨眉电影
