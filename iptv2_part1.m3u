@@ -564,55 +564,55 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级综艺.png" group-title="NEWTV",NEWTV超级综艺
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级综艺.png" group-title="NEWTV",NEWTV超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="超级体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级体育.png" group-title="NEWTV",NEWTV超级体育
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="超级体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级体育.png" group-title="NEWTV",NEWTV超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级电影.png" group-title="NEWTV",NEWTV超级电影
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级电影.png" group-title="NEWTV",NEWTV超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级电视剧.png" group-title="NEWTV",NEWTV超级电视剧
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV超级电视剧.png" group-title="NEWTV",NEWTV超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV武博世界" tvg-name="NEWTV武博世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV武博世界.png" group-title="NEWTV",NEWTV武博世界
+#EXTINF:-1 tvg-id="newtv武博世界" tvg-name="NEWTV武博世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV武博世界.png" group-title="NEWTV",NEWTV武博世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV中国功夫.png" group-title="NEWTV",NEWTV中国功夫
+#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV中国功夫.png" group-title="NEWTV",NEWTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/怡伴健康.png" group-title="NEWTV",NEWTV怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV军旅剧场.png" group-title="NEWTV",NEWTV军旅剧场
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV军旅剧场.png" group-title="NEWTV",NEWTV军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/农业致富.png" group-title="NEWTV",NEWTV农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV古装剧场.png" group-title="NEWTV",NEWTV古装剧场
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV古装剧场.png" group-title="NEWTV",NEWTV古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV炫舞未来.png" group-title="NEWTV",NEWTV炫舞未来
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV炫舞未来.png" group-title="NEWTV",NEWTV炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV潮妈辣婆.png" group-title="NEWTV",NEWTV潮妈辣婆
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV潮妈辣婆.png" group-title="NEWTV",NEWTV潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV精品体育.png" group-title="NEWTV",NEWTV精品体育
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV精品体育.png" group-title="NEWTV",NEWTV精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV精品纪录.png" group-title="NEWTV",NEWTV精品纪录
+#EXTINF:-1 tvg-id="newtv精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV精品纪录.png" group-title="NEWTV",NEWTV精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV金牌综艺.png" group-title="NEWTV",NEWTV金牌综艺
+#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV金牌综艺.png" group-title="NEWTV",NEWTV金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV家庭剧场.png" group-title="NEWTV",NEWTV家庭剧场
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV家庭剧场.png" group-title="NEWTV",NEWTV家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV精品大剧.png" group-title="NEWTV",NEWTV精品大剧
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV精品大剧.png" group-title="NEWTV",NEWTV精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV军事评论.png" group-title="NEWTV",NEWTV军事评论
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV军事评论.png" group-title="NEWTV",NEWTV军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV东北热剧.png" group-title="NEWTV",NEWTV东北热剧
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="NEWTV东北热剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV东北热剧.png" group-title="NEWTV",NEWTV东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV欢乐剧场.png" group-title="NEWTV",NEWTV欢乐剧场
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV欢乐剧场.png" group-title="NEWTV",NEWTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/精品萌宠.png" group-title="NEWTV",NEWTV精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱情喜剧.png" group-title="NEWTV",NEWTV爱情喜剧
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱情喜剧.png" group-title="NEWTV",NEWTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/动作电影.png" group-title="NEWTV",NEWTV动作电影
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/动作电影.png" group-title="NEWTV",NEWTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/惊悚悬疑.png" group-title="NEWTV",NEWTV惊悚悬疑
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/惊悚悬疑.png" group-title="NEWTV",NEWTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV海外剧场" tvg-name="NEWTV海外剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV海外剧场.png" group-title="NEWTV",NEWTV海外剧场
+#EXTINF:-1 tvg-id="newtv海外剧场" tvg-name="NEWTV海外剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/NEWTV海外剧场.png" group-title="NEWTV",NEWTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/咪咕视频.png" group-title="咪咕",咪咕视频1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -680,65 +680,65 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/精彩综艺.png" group-title="数字",精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="爱电竞" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱电竞.png" group-title="IHOT",爱电竞
+#EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱电竞.png" group-title="IHOT",爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱谍战" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱谍战.png" group-title="IHOT",爱谍战
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱谍战.png" group-title="IHOT",爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱动漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱动漫.png" group-title="IHOT",爱动漫
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱动漫.png" group-title="IHOT",爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱都市.png" group-title="IHOT",爱都市
+#EXTINF:-1 tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱都市.png" group-title="IHOT",爱都市
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱怀旧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱怀旧.png" group-title="IHOT",爱怀旧
+#EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱怀旧.png" group-title="IHOT",爱怀旧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱极限" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱极限.png" group-title="IHOT",爱极限
+#EXTINF:-1 tvg-id="爱极限" tvg-name="爱极限" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱极限.png" group-title="IHOT",爱极限
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱家庭" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱家庭.png" group-title="IHOT",爱家庭
+#EXTINF:-1 tvg-id="爱家庭" tvg-name="爱家庭" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱家庭.png" group-title="IHOT",爱家庭
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱江湖" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱江湖.png" group-title="IHOT",爱江湖
+#EXTINF:-1 tvg-id="爱江湖" tvg-name="爱江湖" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱江湖.png" group-title="IHOT",爱江湖
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱解密" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱解密.png" group-title="IHOT",爱解密
+#EXTINF:-1 tvg-id="爱解密" tvg-name="爱解密" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱解密.png" group-title="IHOT",爱解密
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱经典" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱经典.png" group-title="IHOT",爱经典
+#EXTINF:-1 tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱经典.png" group-title="IHOT",爱经典
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱科幻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱科幻.png" group-title="IHOT",爱科幻
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱科幻.png" group-title="IHOT",爱科幻
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱科学" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱科学.png" group-title="IHOT",爱科学
+#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱科学.png" group-title="IHOT",爱科学
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱浪漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱浪漫.png" group-title="IHOT",爱浪漫
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱浪漫.png" group-title="IHOT",爱浪漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱历史" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱历史.png" group-title="IHOT",爱历史
+#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱历史.png" group-title="IHOT",爱历史
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱猎奇" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱猎奇.png" group-title="IHOT",爱猎奇
+#EXTINF:-1 tvg-id="爱猎奇" tvg-name="爱猎奇" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱猎奇.png" group-title="IHOT",爱猎奇
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱旅行" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱旅行.png" group-title="IHOT",爱旅行
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱旅行.png" group-title="IHOT",爱旅行
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱美食" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱美食.png" group-title="IHOT",爱美食
+#EXTINF:-1 tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱美食.png" group-title="IHOT",爱美食
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱奇谈" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱奇谈.png" group-title="IHOT",爱奇谈
+#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱奇谈.png" group-title="IHOT",爱奇谈
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱青春" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱青春.png" group-title="IHOT",爱青春
+#EXTINF:-1 tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱青春.png" group-title="IHOT",爱青春
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱赛车" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱赛车.png" group-title="IHOT",爱赛车
+#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱赛车.png" group-title="IHOT",爱赛车
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱时尚" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱时尚.png" group-title="IHOT",爱时尚
+#EXTINF:-1 tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱时尚.png" group-title="IHOT",爱时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱世界.png" group-title="IHOT",爱世界
+#EXTINF:-1 tvg-id="爱世界" tvg-name="爱世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱世界.png" group-title="IHOT",爱世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱探索" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱探索.png" group-title="IHOT",爱探索
+#EXTINF:-1 tvg-id="爱探索" tvg-name="爱探索" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱探索.png" group-title="IHOT",爱探索
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱体育.png" group-title="IHOT",爱体育
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱体育.png" group-title="IHOT",爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱玩具" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱玩具.png" group-title="IHOT",爱玩具
+#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱玩具.png" group-title="IHOT",爱玩具
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱喜剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱喜剧.png" group-title="IHOT",爱喜剧
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱喜剧.png" group-title="IHOT",爱喜剧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱悬疑" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱悬疑.png" group-title="IHOT",爱悬疑
+#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱悬疑.png" group-title="IHOT",爱悬疑
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱幼教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱幼教.png" group-title="IHOT",爱幼教
+#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱幼教.png" group-title="IHOT",爱幼教
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱娱乐.png" group-title="IHOT",爱娱乐
+#EXTINF:-1 tvg-id="爱娱乐" tvg-name="爱娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱娱乐.png" group-title="IHOT",爱娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="爱院线" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱院线.png" group-title="IHOT",爱院线
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱院线.png" group-title="IHOT",爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/东森电视台.png" group-title="台湾",东森新闻
 http://sc2022.stream-link.org/tv2306.php?id=t01
