@@ -1,0 +1,175 @@
+#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="CCTV-4欧洲HD（备用）" tvg-name="CCTV-4欧洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲HD（备用）
+http://mmitv.top/igmp/multicast.php?id=cctv4oz&ext=28ad5634
+#EXTINF:-1 tvg-id="CCTV-4美洲HD（备用）" tvg-name="CCTV-4美洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲HD（备用）
+http://mmitv.top/igmp/multicast.php?id=cctv4mz&ext=607534da
+#EXTINF:-1 tvg-id="南方卫视（备用）" tvg-name="大湾区卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/大湾区卫视.png" group-title="卫视",大湾区卫视HD（备用）
+http://mmitv.top/igmp/multicast.php?id=dwqws&ext=02d905f4
+#EXTINF:-1 tvg-id="广东新闻（备用）" tvg-name="广东新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东新闻.png" group-title="广东",广东新闻HD（备用）
+http://mmitv.top/igmp/multicast.php?id=gdxw&ext=0f615d61
+#EXTINF:-1 tvg-id="广东影视（备用）" tvg-name="广东影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东影视.png" group-title="广东",广东影视HD（备用）
+http://mmitv.top/igmp/multicast.php?id=gdys&ext=229e9e50
+#EXTINF:-1 tvg-id="广东体育（备用）" tvg-name="广东体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东体育HD（备用）
+http://mmitv.top/igmp/multicast.php?id=gdty&ext=752f01e7
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东民生HD
+http://mmitv.top/igmp/multicast.php?id=gdms&ext=e28ae680
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东经济科教HD
+http://mmitv.top/igmp/multicast.php?id=gdjjkj&ext=76172cf9
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东少儿HD
+http://mmitv.top/igmp/multicast.php?id=gdse&ext=4049ba10
+#EXTINF:-1 tvg-id="广州综合（备用）" tvg-name="广州综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广东",广州综合HD（备用）
+http://mmitv.top/igmp/multicast.php?id=gzzh&ext=324d5e25
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广东",广州新闻HD
+http://mmitv.top/igmp/multicast.php?id=gzxw&ext=82763036
+#EXTINF:-1 tvg-id="广州影视（备用）" tvg-name="广州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州影视HD（备用）
+http://mmitv.top/igmp/multicast.php?id=gzys&ext=ed3d717d
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州法治HD
+http://mmitv.top/igmp/multicast.php?id=gzfz&ext=c032a565
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州竞赛HD
+http://mmitv.top/igmp/multicast.php?id=gzjs&ext=68de4f60
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南经视.png" group-title="湖南",湖南经视HD
+http://mmitv.top/igmp/multicast.php?id=hnjs&ext=fb55c37a
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南都市.png" group-title="湖南",湖南都市HD
+http://mmitv.top/igmp/multicast.php?id=hunds&ext=6b55792e
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南电视剧.png" group-title="湖南",湖南电视剧HD
+http://mmitv.top/igmp/multicast.php?id=hndsj&ext=14ce76cc
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南电影.png" group-title="湖南",湖南电影HD
+http://mmitv.top/igmp/multicast.php?id=hndy&ext=8e631b8e
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南娱乐.png" group-title="湖南",湖南娱乐HD
+http://mmitv.top/igmp/multicast.php?id=hnyl&ext=00d3eb34
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南爱晚.png" group-title="湖南",湖南爱晚HD
+http://mmitv.top/igmp/multicast.php?id=hngg&ext=4f97be91
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南国际.png" group-title="湖南",湖南国际HD
+http://mmitv.top/igmp/multicast.php?id=hngj&ext=abce309e
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖南国际.png" group-title="湖南",湖南教育HD
+http://mmitv.top/igmp/multicast.php?id=hnjy&ext=875aaf2c
+#EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/长沙新闻综合.png" group-title="湖南",长沙新闻综合HD
+http://mmitv.top/igmp/multicast.php?id=csxw&ext=7a8c753c
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/长沙政法.png" group-title="湖南",长沙政法HD
+http://mmitv.top/igmp/multicast.php?id=cszf&ext=561b042b
+#EXTINF:-1 tvg-id="长沙女性" tvg-name="长沙女性" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/长沙女性.png" group-title="湖南",长沙女性HD
+http://mmitv.top/igmp/multicast.php?id=csnx&ext=47f52de5
+#EXTINF:-1 tvg-id="长沙影视" tvg-name="长沙影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/长沙影视.png" group-title="湖南",长沙影视HD
+http://mmitv.top/igmp/multicast.php?id=csys&ext=fd07b323
+#EXTINF:-1 tvg-id="百视通4K测试" tvg-name="百视通4K测试" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K测试
+http://mmitv.top/igmp/multicast.php?id=bst4kcs&ext=25169b15
+#EXTINF:-1 tvg-id="爱上4K（备用）" tvg-name="爱上4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱上4K.png" group-title="UHD",爱上4K（备用）
+http://mmitv.top/igmp/multicast.php?id=4kcs&ext=9053797e
+#EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",4K超清
+http://mmitv.top/igmp/multicast.php?id=4kcq&ext=4a327423
+#EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东卫视.png" group-title="UHD",广东综艺4K
+http://mmitv.top/igmp/multicast.php?id=gdzy-4k&ext=23a9c1bc
+#EXTINF:-1 tvg-id="中录动漫4K" tvg-name="中录动漫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",中录动漫4K
+http://mmitv.top/igmp/multicast.php?id=zldm-4k&ext=528b6cc0
+#EXTINF:-1 tvg-id="亲子趣学4K" tvg-name="亲子趣学" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",亲子趣学4K
+http://mmitv.top/igmp/multicast.php?id=qzqx-4k&ext=82eb0b9c
+#EXTINF:-1 tvg-id="津津悦读4K" tvg-name="津津悦读" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",津津悦读4K
+http://mmitv.top/igmp/multicast.php?id=jjyd-4k&ext=8065dc31
+#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",绚影4K
+http://mmitv.top/igmp/multicast.php?id=xy-4k&ext=9a42366c
+#EXTINF:-1 tvg-id="4K花园" tvg-name="4K花园" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",4K花园
+http://mmitv.top/igmp/multicast.php?id=4khy&ext=3276f967
+#EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/云南卫视.png" group-title="UHD",云南4K
+http://mmitv.top/igmp/multicast.php?id=yn-4k&ext=59a3a455
+#EXTINF:-1 tvg-id="华数4K影视（备用3）" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用3）
+http://mmitv.top/igmp/multicast.php?id=4klx&ext=9c429aa7
+#EXTINF:-1 tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",港剧风云
+http://mmitv.top/igmp/multicast.php?id=bestvgjfy&ext=505350d7
+#EXTINF:-1 tvg-id="高清影院" tvg-name="高清影院" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",高清影院
+http://mmitv.top/igmp/multicast.php?id=gqyy&ext=ce68ba3e
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",梨园
+#https://pi.0472.org/tv/hn.php?id=154
+http://mmitv.top/igmp/multicast.php?id=lypd&ext=bee7e146
+#EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南乡村
+http://mmitv.top/igmp/multicast.php?id=hnxc&ext=9148f55c
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南公共
+http://mmitv.top/igmp/multicast.php?id=hengg&ext=50123089
+#EXTINF:-1 tvg-id="河南功夫" tvg-name="河南功夫" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南功夫
+http://mmitv.top/igmp/multicast.php?id=hngf&ext=d3e4da7f
+#EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南国际
+http://mmitv.top/igmp/multicast.php?id=hengj&ext=895648c2
+#EXTINF:-1 tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南导视
+http://mmitv.top/igmp/multicast.php?id=hends-0&ext=68378c1d
+#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南戏曲
+http://mmitv.top/igmp/multicast.php?id=hnxq&ext=3d183ef5
+#EXTINF:-1 tvg-id="河南收藏天下" tvg-name="河南收藏天下" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南收藏天下
+http://mmitv.top/igmp/multicast.php?id=hnsztx&ext=dd5733be
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南新闻
+http://mmitv.top/igmp/multicast.php?id=hnxw&ext=6d095b70
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南民生
+http://mmitv.top/igmp/multicast.php?id=hnms&ext=f10a36fe
+#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南法治
+http://mmitv.top/igmp/multicast.php?id=hnfz&ext=0dcc1354
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南电视剧
+http://mmitv.top/igmp/multicast.php?id=hendsj&ext=6682f658
+#EXTINF:-1 tvg-id="河南移动" tvg-name="河南移动" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南移动
+http://mmitv.top/igmp/multicast.php?id=hnyd&ext=03bcb22c
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",河南都市
+http://mmitv.top/igmp/multicast.php?id=hends-1&ext=ade2e926
+#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="河南",睛彩中原
+http://mmitv.top/igmp/multicast.php?id=jczy&ext=de1addca
+#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/四川卫视.png" group-title="影视",四川影视文艺
+http://mmitv.top/igmp/multicast.php?id=scyswy&ext=567466f2
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏影视.png" group-title="影视",江苏影视
+http://mmitv.top/igmp/multicast.php?id=jsys&ext=695d438b
+#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏卫视.png" group-title="影视",南京影视
+http://mmitv.top/igmp/multicast.php?id=njys&ext=2c06d651
+#EXTINF:-1 tvg-id="泰州影视" tvg-name="泰州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏卫视.png" group-title="影视",泰州影视
+http://mmitv.top/igmp/multicast.php?id=tzys&ext=adcc530d
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/湖北影视.png" group-title="影视",湖北影视
+http://mmitv.top/igmp/multicast.php?id=hubys&ext=d6ad8e03
+#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安徽影视.png" group-title="影视",安徽影视
+http://mmitv.top/igmp/multicast.php?id=ahyspd&ext=67564a07
+#EXTINF:-1 tvg-id="海豚影视" tvg-name="海豚影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/安徽影视.png" group-title="影视",海豚影视
+http://mmitv.top/igmp/multicast.php?id=htys&ext=5446c882
+#EXTINF:-1 tvg-id="陕西西部电影" tvg-name="陕西西部电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/陕西卫视.png" group-title="影视",陕西西部电影
+http://mmitv.top/igmp/multicast.php?id=sxxbdy&ext=573ad667
+#EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东卫视.png" group-title="影视",佛山影视
+http://mmitv.top/igmp/multicast.php?id=fsys&ext=db4cfc37
+#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/甘肃卫视.png" group-title="影视",甘肃文化影视
+http://mmitv.top/igmp/multicast.php?id=gswhys&ext=62ab978b
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广西卫视.png" group-title="影视",广西影视
+http://mmitv.top/igmp/multicast.php?id=gxys&ext=5f1bd9d9
+#EXTINF:-1 tvg-id="南宁影视" tvg-name="南宁影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广西卫视.png" group-title="影视",南宁影视
+http://mmitv.top/igmp/multicast.php?id=nnys&ext=41112cc5
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河北卫视.png" group-title="影视",河北影视剧
+http://mmitv.top/igmp/multicast.php?id=hbysj&ext=9d5ffdd9
+#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河北卫视.png" group-title="影视",河北影视
+http://mmitv.top/igmp/multicast.php?id=hebys&ext=bdf7bce2
+#EXTINF:-1 tvg-id="秦皇岛影视" tvg-name="秦皇岛影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河北卫视.png" group-title="影视",秦皇岛影视
+http://mmitv.top/igmp/multicast.php?id=qhdys&ext=d617be74
+#EXTINF:-1 tvg-id="唐山影视" tvg-name="唐山影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河北卫视.png" group-title="影视",唐山影视
+http://mmitv.top/igmp/multicast.php?id=tsys&ext=a505c24f
+#EXTINF:-1 tvg-id="沧州影视娱乐" tvg-name="沧州影视娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河北卫视.png" group-title="影视",沧州影视娱乐
+http://mmitv.top/igmp/multicast.php?id=czysyl&ext=3678d538
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江西卫视.png" group-title="影视",江西影视旅游
+http://mmitv.top/igmp/multicast.php?id=jxysly&ext=545eba7a
+#EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/云南卫视.png" group-title="影视",云南影视
+http://mmitv.top/igmp/multicast.php?id=ynys&ext=302224f0
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/天津卫视.png" group-title="影视",天津影视
+http://mmitv.top/igmp/multicast.php?id=tjys&ext=3e9a0a87
+#EXTINF:-1 tvg-id="武城影视" tvg-name="武城影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山东卫视.png" group-title="影视",武城影视
+http://mmitv.top/igmp/multicast.php?id=wcys&ext=bf6c5726
+#EXTINF:-1 tvg-id="烟台影视" tvg-name="烟台影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山东卫视.png" group-title="影视",烟台影视
+http://mmitv.top/igmp/multicast.php?id=ytys&ext=a5483e7f
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山东卫视.png" group-title="影视",潍坊影视综艺
+http://mmitv.top/igmp/multicast.php?id=wfyszy&ext=2523a7e4
+#EXTINF:-1 tvg-id="陕西影视" tvg-name="陕西影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/陕西卫视.png" group-title="影视",陕西影视
+http://mmitv.top/igmp/multicast.php?id=shaanxys&ext=ad20119e
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/浙江卫视.png" group-title="影视",杭州影视
+http://mmitv.top/igmp/multicast.php?id=hz-4&ext=a5c861d6
+#EXTINF:-1 tvg-id="呼和浩特影视娱乐" tvg-name="呼和浩特影视娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/内蒙古卫视.png" group-title="影视",呼和浩特影视娱乐
+http://mmitv.top/igmp/multicast.php?id=hhhtysyl&ext=92e4c73a
+#EXTINF:-1 tvg-id="巴彦淖尔影视娱乐" tvg-name="巴彦淖尔影视娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/内蒙古卫视.png" group-title="影视",巴彦淖尔影视娱乐
+http://mmitv.top/igmp/multicast.php?id=byneysyl&ext=0c40745d
+#EXTINF:-1 tvg-id="赤峰影视娱乐" tvg-name="赤峰影视娱乐" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/内蒙古卫视.png" group-title="影视",赤峰影视娱乐
+http://mmitv.top/igmp/multicast.php?id=cfysyl&ext=c90ead3b
+#EXTINF:-1 tvg-id="太原影视" tvg-name="太原影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山西卫视.png" group-title="影视",太原影视
+http://mmitv.top/igmp/multicast.php?id=tyys&ext=e87c0373
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/山西卫视.png" group-title="影视",山西影视
+http://mmitv.top/igmp/multicast.php?id=shanxys&ext=a42345a7
+#EXTINF:-1 tvg-id="郑州影视" tvg-name="郑州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/河南卫视.png" group-title="影视",郑州影视
+http://mmitv.top/igmp/multicast.php?id=zzys&ext=85ec9aa5
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/辽宁卫视.png" group-title="影视",辽宁影视剧
+http://mmitv.top/igmp/multicast.php?id=lnysj&ext=67ea7217
