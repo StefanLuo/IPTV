@@ -545,7 +545,7 @@ http://r.jdshipin.com/5DWJk
 #EXTINF:-1 tvg-id="4K超高清电影（备用）" tvg-name="4K超高清电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4K超高清电影.png" group-title="影视",4K超高清电影（备用）
 http://r.jdshipin.com/B7sfp
 #EXTINF:-1 tvg-id="M1905电影网" tvg-name="M1905电影网" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/M1905电影网.png" group-title="影视",M1905电影网
-http://nas.jdshipin.com:8801/1905.php?id=1905dy
+http://192.168.2.3:8090/m1905.php
 #EXTINF:-1 tvg-id="江苏影视轮播" tvg-name="江苏影视轮播" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/江苏移动影视轮播.png" group-title="影视",江苏影视轮播
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/黑龙江影视.png" group-title="影视",黑龙江影视
