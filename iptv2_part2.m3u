@@ -1,16 +1,16 @@
 #EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲HD（备用）
+#EXTINF:-1 tvg-id="CCTV4欧洲（备用）" tvg-name="CCTV-4欧洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲HD（备用）
 http://mmitv.top/igmp/multicast.php?id=cctv4oz&ext=28ad5634
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV-4美洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲HD（备用）
+#EXTINF:-1 tvg-id="CCTV4美洲（备用）" tvg-name="CCTV-4美洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲HD（备用）
 http://mmitv.top/igmp/multicast.php?id=cctv4mz&ext=607534da
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="大湾区卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/大湾区卫视.png" group-title="卫视",大湾区卫视HD（备用）
+#EXTINF:-1 tvg-id="南方卫视（备用）" tvg-name="大湾区卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/大湾区卫视.png" group-title="卫视",大湾区卫视HD（备用）
 http://mmitv.top/igmp/multicast.php?id=dwqws&ext=02d905f4
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东新闻.png" group-title="广东",广东新闻HD（备用）
+#EXTINF:-1 tvg-id="广东新闻（备用）" tvg-name="广东新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东新闻.png" group-title="广东",广东新闻HD（备用）
 http://mmitv.top/igmp/multicast.php?id=gdxw&ext=0f615d61
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东影视.png" group-title="广东",广东影视HD（备用）
+#EXTINF:-1 tvg-id="广东影视（备用）" tvg-name="广东影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东影视.png" group-title="广东",广东影视HD（备用）
 http://mmitv.top/igmp/multicast.php?id=gdys&ext=229e9e50
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东体育HD（备用）
+#EXTINF:-1 tvg-id="广东体育（备用）" tvg-name="广东体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东体育HD（备用）
 http://mmitv.top/igmp/multicast.php?id=gdty&ext=752f01e7
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东民生HD
 http://mmitv.top/igmp/multicast.php?id=gdms&ext=e28ae680
@@ -18,11 +18,11 @@ http://mmitv.top/igmp/multicast.php?id=gdms&ext=e28ae680
 http://mmitv.top/igmp/multicast.php?id=gdjjkj&ext=76172cf9
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广东体育.png" group-title="广东",广东少儿HD
 http://mmitv.top/igmp/multicast.php?id=gdse&ext=4049ba10
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广东",广州综合HD（备用）
+#EXTINF:-1 tvg-id="广州综合（备用）" tvg-name="广州综合" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广东",广州综合HD（备用）
 http://mmitv.top/igmp/multicast.php?id=gzzh&ext=324d5e25
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州综合.png" group-title="广东",广州新闻HD
 http://mmitv.top/igmp/multicast.php?id=gzxw&ext=82763036
-#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州影视HD（备用）
+#EXTINF:-1 tvg-id="广州影视（备用）" tvg-name="广州影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州影视HD（备用）
 http://mmitv.top/igmp/multicast.php?id=gzys&ext=ed3d717d
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/广州影视.png" group-title="广东",广州法治HD
 http://mmitv.top/igmp/multicast.php?id=gzfz&ext=c032a565
@@ -54,7 +54,7 @@ http://mmitv.top/igmp/multicast.php?id=csnx&ext=47f52de5
 http://mmitv.top/igmp/multicast.php?id=csys&ext=fd07b323
 #EXTINF:-1 tvg-id="百视通4K测试" tvg-name="百视通4K测试" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="UHD",百视通4K测试
 http://mmitv.top/igmp/multicast.php?id=bst4kcs&ext=25169b15
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱上4K.png" group-title="UHD",爱上4K（备用）
+#EXTINF:-1 tvg-id="爱上4K（备用）" tvg-name="爱上4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/爱上4K.png" group-title="UHD",爱上4K（备用）
 http://mmitv.top/igmp/multicast.php?id=4kcs&ext=9053797e
 #EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/4KUHD.png" group-title="UHD",4K超清
 http://mmitv.top/igmp/multicast.php?id=4kcq&ext=4a327423
@@ -72,7 +72,7 @@ http://mmitv.top/igmp/multicast.php?id=xy-4k&ext=9a42366c
 http://mmitv.top/igmp/multicast.php?id=4khy&ext=3276f967
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/云南卫视.png" group-title="UHD",云南4K
 http://mmitv.top/igmp/multicast.php?id=yn-4k&ext=59a3a455
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用3）
+#EXTINF:-1 tvg-id="华数4K影视（备用3）" tvg-name="华数4K影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用3）
 http://mmitv.top/igmp/multicast.php?id=4klx&ext=9c429aa7
 #EXTINF:-1 tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/BesTV-4K.png" group-title="百视通",港剧风云
 http://mmitv.top/igmp/multicast.php?id=bestvgjfy&ext=505350d7
