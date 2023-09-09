@@ -805,24 +805,6 @@ http://sc2022.stream-link.org/tv2306.php?id=t24
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="http://192.168.2.3:8090/Logo/其他.png" group-title="其他",漫游世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建综合
-https://cntv.sbs/tv?auth=230830&id=fjzh
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建新闻
-https://cntv.sbs/tv?auth=230830&id=fjxw
-#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建电视剧
-https://cntv.sbs/tv?auth=230830&id=fjdsj
-#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建文体
-https://cntv.sbs/tv?auth=230830&id=fjwt
-#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建少儿
-https://cntv.sbs/tv?auth=230830&id=fjse
-#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建旅游
-https://cntv.sbs/tv?auth=230830&id=fjly
-#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建经济
-https://cntv.sbs/tv?auth=230830&id=fjjj
-#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建公共
-https://cntv.sbs/tv?auth=230830&id=fjgg
-#EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建教育
-https://cntv.sbs/tv?auth=230830&id=fjjy
 #EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="福建",厦门一套
 http://192.168.2.3:8090/xiamen.php?id=xm1
 #EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="福建",厦门二套
