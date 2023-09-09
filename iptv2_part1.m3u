@@ -167,7 +167,7 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视HD" tvg-name="厦门卫视" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="卫视",厦门卫视HD
-http://lu1.cc/c/tv/fjtv/kxm.php?id=xmws
+http://192.168.2.3:8090/xiamen.php?id=xmws
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="http://192.168.2.3:8090/Logo/香港卫视.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳亚卫视" tvg-logo="http://192.168.2.3:8090/Logo/澳亚卫视.png" group-title="卫视",澳亚卫视
@@ -823,6 +823,12 @@ https://cntv.sbs/tv?auth=230830&id=fjjj
 https://cntv.sbs/tv?auth=230830&id=fjgg
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="http://192.168.2.3:8090/Logo/东南卫视.png" group-title="福建",福建教育
 https://cntv.sbs/tv?auth=230830&id=fjjy
+#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="福建",厦门一套
+http://192.168.2.3:8090/xiamen.php?id=xm1
+#EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="福建",厦门二套
+http://192.168.2.3:8090/xiamen.php?id=xm2
+#EXTINF:-1 tvg-id="厦门移动" tvg-name="厦门移动" tvg-logo="http://192.168.2.3:8090/Logo/厦门卫视.png" group-title="福建",厦门移动
+http://192.168.2.3:8090/xiamen.php?id=xmyd
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="http://192.168.2.3:8090/Logo/浙江卫视.png" group-title="浙江",浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="http://192.168.2.3:8090/Logo/浙江卫视.png" group-title="浙江",浙江国际
