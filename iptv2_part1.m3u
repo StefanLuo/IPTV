@@ -238,17 +238,17 @@ http://192.168.2.1:4022/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="67" tvg-name="东方财经" tvg-logo="http://192.168.2.3:8090/Logo/东方财经.png" group-title="上海",东方财经HD
 http://192.168.2.1:4022/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="http://192.168.2.3:8090/Logo/北京文艺.png" group-title="北京",北京文艺HD
-http://qnap.yjnhome.com:4000/rtp/239.3.1.242:8000
+http://111.196.130.165:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="http://192.168.2.3:8090/Logo/北京影视.png" group-title="北京",北京影视HD
-http://qnap.yjnhome.com:4000/rtp/239.3.1.158:8000
+http://111.196.130.165:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="http://192.168.2.3:8090/Logo/北京财经.png" group-title="北京",北京财经HD
-http://qnap.yjnhome.com:4000/rtp/239.3.1.116:8000
+http://111.196.130.165:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="http://192.168.2.3:8090/Logo/北京生活.png" group-title="北京",北京生活HD
-http://qnap.yjnhome.com:4000/rtp/239.3.1.117:8000
+http://111.196.130.165:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="http://192.168.2.3:8090/Logo/北京新闻.png" group-title="北京",北京新闻HD
-http://qnap.yjnhome.com:4000/rtp/239.3.1.159:8000
+http://111.196.130.165:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="http://192.168.2.3:8090/Logo/北京体育休闲.png" group-title="北京",北京体育休闲HD
-http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
+http://111.196.130.165:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京IPTV淘电影" tvg-logo="http://192.168.2.3:8090/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD
 http://r.jdshipin.com/OeHMu
 #EXTINF:-1 tvg-id="北京淘电影（备用）" tvg-name="北京IPTV淘电影" tvg-logo="http://192.168.2.3:8090/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD（备用）
