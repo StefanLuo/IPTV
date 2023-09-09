@@ -835,3 +835,27 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="http://192.168.2.3:8090/Logo/海南卫视.png" group-title="海南",海南自贸
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="http://192.168.2.3:8090/Logo/湖南经视.png" group-title="湖南",湖南经视
+http://175.9.142.71:8888/rtp/239.76.252.116:9000
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="http://192.168.2.3:8090/Logo/湖南都市.png" group-title="湖南",湖南都市
+http://175.9.142.71:8888/rtp/239.76.252.117:9000
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://192.168.2.3:8090/Logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://175.9.142.71:8888/rtp/239.76.252.118:9000
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="http://192.168.2.3:8090/Logo/湖南电影.png" group-title="湖南",湖南电影
+http://175.9.142.71:8888/rtp/239.76.252.119:9000
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="http://192.168.2.3:8090/Logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://175.9.142.71:8888/rtp/239.76.252.121:9000
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="http://192.168.2.3:8090/Logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://175.9.142.71:8888/rtp/239.76.252.123:9000
+#EXTINF:-1 tvg-id="湖南卫视国际" tvg-name="湖南国际" tvg-logo="http://192.168.2.3:8090/Logo/湖南国际.png" group-title="湖南",湖南国际
+http://175.9.142.71:8888/rtp/239.76.252.124:9000
+#EXTINF:-1 tvg-id="湖南教育电视台" tvg-name="湖南教育" tvg-logo="http://192.168.2.3:8090/Logo/湖南国际.png" group-title="湖南",湖南教育
+http://175.9.142.71:8888/rtp/239.76.252.233:9000
+#EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="http://192.168.2.3:8090/Logo/长沙新闻综合.png" group-title="湖南",长沙新闻综合
+http://175.9.142.71:8888/rtp/239.76.253.121:9000
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="http://192.168.2.3:8090/Logo/长沙政法.png" group-title="湖南",长沙政法
+http://175.9.142.71:8888/rtp/239.76.253.122:9000
+#EXTINF:-1 tvg-id="长沙女性" tvg-name="长沙女性" tvg-logo="http://192.168.2.3:8090/Logo/长沙女性.png" group-title="湖南",长沙女性
+http://175.9.142.71:8888/rtp/239.76.252.23:9000
+#EXTINF:-1 tvg-id="长沙影视" tvg-name="长沙影视" tvg-logo="http://192.168.2.3:8090/Logo/长沙影视.png" group-title="湖南",长沙影视
+http://175.9.142.71:8888/rtp/239.76.252.204:9000
