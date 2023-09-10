@@ -373,8 +373,6 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.12:5140
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="CCTV16（备用2）" tvg-name="CCTV-16" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用2）
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16（备用3）" tvg-name="CCTV-16" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用3）
-https://cntv.sbs/tv?auth=230830&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV16（备用4）" tvg-name="CCTV-16" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用4）
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV16（备用5）" tvg-name="CCTV-16" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用5）
