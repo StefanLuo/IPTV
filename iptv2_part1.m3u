@@ -427,32 +427,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-id="百视通（备用）" tvg-name="百视通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通（备用）
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 tvg-id="秒看天下" tvg-name="秒看天下" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",秒看天下
-https://cntv.sbs/tv?auth=230830&id=ktxjx
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",华语影院
-https://cntv.sbs/tv?auth=230830&id=hyyy
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",电竞天堂
-https://cntv.sbs/tv?auth=230830&id=djtt
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",青春动漫
-https://cntv.sbs/tv?auth=230830&id=qcdm
-#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",宝宝动画
-https://cntv.sbs/tv?auth=230830&id=bbdh
-#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",星光影院
-https://cntv.sbs/tv?auth=230830&id=xgyy
-#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",谍战剧场
-https://cntv.sbs/tv?auth=230830&id=dzjc
-#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",全球大片
-https://cntv.sbs/tv?auth=230830&id=qqdp
-#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",热门剧场
-https://cntv.sbs/tv?auth=230830&id=rmjc
-#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",热门综艺
-https://cntv.sbs/tv?auth=230830&id=rmzy
-#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",戏曲精选
-https://cntv.sbs/tv?auth=230830&id=xqjx
-#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",健康养生
-https://cntv.sbs/tv?auth=230830&id=jkys
-#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百变课堂
-https://cntv.sbs/tv?auth=230830&id=bbkt
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文（备用1）" tvg-name="凤凰中文" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/凤凰卫视中文台.png" group-title="港澳",凤凰中文（备用1）
