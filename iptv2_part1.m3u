@@ -411,8 +411,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u
 http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1 tvg-id="华数4K影视（备用3）" tvg-name="华数4K影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用3）
 http://222.209.244.139:8188/rtp/239.93.0.43:5140
-#EXTINF:-1 tvg-id="精彩连播" tvg-name="精彩连播" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",精彩连播
-http://222.209.244.139:8188/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京纪实科教.png" group-title="UHD",北京纪实科教8K
 http://159.75.85.63:6798
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/江苏移动8K测试.png" group-title="UHD",江苏8K测试
@@ -529,6 +527,8 @@ http://www.terrykang.cn:5678/sxg.php?id=wssj_4000
 http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
 #EXTINF:-1 tvg-id="斗鱼4K影院HD" tvg-name="斗鱼4K影院" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/斗鱼TV.png" group-title="影视",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-id="精彩连播" tvg-name="精彩连播" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/其他.png" group-title="影视",精彩连播
+http://222.209.244.139:8188/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="影视",峨眉电影
 http://r.jdshipin.com/XIjta
 #EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="影视",峨眉电影（备用）
