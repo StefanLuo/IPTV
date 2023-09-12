@@ -414,7 +414,7 @@ http://159.75.85.63:8765/xxtv8k.php
 #EXTINF:-1 tvg-id="CCTV8K（备用2）" tvg-name="CCTV8K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV8K.png" group-title="UHD",CCTV-8K（备用2）
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV8K（备用3）" tvg-name="CCTV8K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV8K.png" group-title="UHD",CCTV-8K（备用3）
-http://113.118.192.136:4022/rtp/239.253.43.106:5146
+http://113.89.247.223:6666/rtp/239.253.43.106:5146
 #EXTINF:-1 tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K
 http://r.jdshipin.com/ln4xk
 #EXTINF:-1 tvg-id="咪咕体育4K（备用1）" tvg-name="咪咕体育4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用1）
@@ -436,7 +436,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u
 #EXTINF:-1 tvg-id="华数4K影视（备用2）" tvg-name="华数4K影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用2）
 http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1 tvg-id="华数4K影视（备用3）" tvg-name="华数4K影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/华数4K影视.png" group-title="UHD",华数4K影视（备用3）
-http://171.214.224.60:6066/rtp/239.93.0.43:5140
+http://182.139.42.231:4022/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京纪实科教.png" group-title="UHD",北京纪实科教8K
 http://159.75.85.63:6798
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/江苏移动8K测试.png" group-title="UHD",江苏8K测试
@@ -452,23 +452,23 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="FashionTV" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/法国时尚.png" group-title="UHD",FashionTV.4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="中录动漫4K" tvg-name="中录动漫" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",中录动漫4K
-http://171.214.224.60:6066/rtp/239.93.1.188:5140
+http://182.139.42.231:4022/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="亲子趣学4K" tvg-name="亲子趣学" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",亲子趣学4K
-http://171.214.224.60:6066/rtp/239.93.1.191:5140
+http://182.139.42.231:4022/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="津津悦读4K" tvg-name="津津悦读" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",津津悦读4K
-http://171.214.224.60:6066/rtp/239.93.1.197:5140
+http://182.139.42.231:4022/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",绚影4K
-http://171.214.224.60:6066/rtp/239.93.42.33:5140
+http://182.139.42.231:4022/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K
-http://113.118.192.136:4022/rtp/239.77.1.236:5146
+http://113.89.247.223:6666/rtp/239.77.1.236:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用1）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用1）
-http://113.118.192.136:4022/rtp/239.77.1.237:5146
+http://113.89.247.223:6666/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用2）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用2）
-http://113.118.192.136:4022/rtp/239.77.0.244:5146
+http://113.89.247.223:6666/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用3）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用3）
-http://113.118.192.136:4022/rtp/239.77.0.245:5146
+http://113.89.247.223:6666/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广州南国都市.png" group-title="UHD",南国都市4K
-http://113.118.192.136:4022/rtp/239.253.43.99:5146
+http://113.89.247.223:6666/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="百视通" tvg-name="百视通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-id="百视通（备用）" tvg-name="百视通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通（备用）
@@ -554,7 +554,7 @@ http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
 #EXTINF:-1 tvg-id="斗鱼4K影院HD" tvg-name="斗鱼4K影院" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/斗鱼TV.png" group-title="影视",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="精彩连播" tvg-name="精彩连播" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/其他.png" group-title="影视",精彩连播
-http://171.214.224.60:6066/rtp/239.93.1.156:5140
+http://182.139.42.231:4022/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="影视",峨眉电影
 http://r.jdshipin.com/XIjta
 #EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="影视",峨眉电影（备用）
