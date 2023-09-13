@@ -369,6 +369,8 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.1:5140
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K（备用）" tvg-name="纯享4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/纯享4K.png" group-title="UHD",纯享4K（备用）
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="北京IPTV4K（备用）" tvg-name="北京IPTV4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京IPTV4K.png" group-title="UHD",北京IPTV4K（备用）
+http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 #EXTINF:-1 tvg-id="CCTV-1.4K" tvg-name="CCTV1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV1.png" group-title="UHD",CCTV-1.4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-3.4K" tvg-name="CCTV3" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV3.png" group-title="UHD",CCTV-3.4K
