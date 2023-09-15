@@ -829,8 +829,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u
 https://channellogocu.stefanluo.xyz:8443/xiamen.php?id=xm1
 #EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/厦门卫视.png" group-title="福建",厦门二套
 https://channellogocu.stefanluo.xyz:8443/xiamen.php?id=xm2
-#EXTINF:-1 tvg-id="厦门三套" tvg-name="厦门三套" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/厦门卫视.png" group-title="福建",厦门三套
-https://channellogocu.stefanluo.xyz:8443/xiamen.php?id=xm3
 #EXTINF:-1 tvg-id="厦门移动" tvg-name="厦门移动" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/厦门卫视.png" group-title="福建",厦门移动
 https://channellogocu.stefanluo.xyz:8443/xiamen.php?id=xmyd
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/浙江卫视.png" group-title="浙江",浙江公共新闻
