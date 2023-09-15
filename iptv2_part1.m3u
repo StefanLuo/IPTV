@@ -297,13 +297,15 @@ https://justsometime.gztv.com/sec/shenghuos.m3u8
 https://justsometime.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="财富天下" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/财富天下.png" group-title="数字",财富天下
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.7:5140
-#EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/快乐垂钓.png" group-title="湖南",快乐垂钓HD
+#EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/快乐垂钓.png" group-title="湖南",快乐垂钓
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.12:5140
-#EXTINF:-1 tvg-id="44" tvg-name="茶频道" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/茶频道.png" group-title="湖南",茶频道HD
+#EXTINF:-1 tvg-id="43" tvg-name="先锋乒羽" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/快乐垂钓.png" group-title="湖南",先锋乒羽
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=xfpy_4000
+#EXTINF:-1 tvg-id="44" tvg-name="茶频道" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/茶频道.png" group-title="湖南",茶频道
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="106" tvg-name="金鹰纪实" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/金鹰纪实.png" group-title="湖南",金鹰纪实HD
+#EXTINF:-1 tvg-id="106" tvg-name="金鹰纪实" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.45:5140
-#EXTINF:-1 tvg-id="27215" tvg-name="金鹰卡通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/金鹰卡通.png" group-title="湖南",金鹰卡通HD
+#EXTINF:-1 tvg-id="27215" tvg-name="金鹰卡通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/金鹰卡通.png" group-title="湖南",金鹰卡通
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南经视.png" group-title="湖南",湖南经视
 http://175.0.37.33:8889/rtp/239.76.252.116:9000
@@ -618,7 +620,8 @@ http://1.193.189.139:9112/rtp/239.16.20.195:11950
 #https://channellogocu.stefanluo.xyz:8443/henan.php?id=hngj
 http://1.193.189.139:9112/rtp/239.16.20.196:11960
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南梨园
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnly
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnly
+http://www.terrykang.cn:5678/sxg.php?id=ly_4000
 #EXTINF:-1 tvg-id="象视界" tvg-name="象视界" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",象视界
 https://channellogocu.stefanluo.xyz:8443/henan.php?id=xsj
 #EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",移动电视
