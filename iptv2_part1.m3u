@@ -464,15 +464,15 @@ http://110.184.198.246:8882/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",绚影4K
 http://110.184.198.246:8882/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K
-http://58.63.65.12:8888/rtp/239.77.1.236:5146
+http://113.78.253.226:8888/rtp/239.77.1.236:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用1）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用1）
-http://58.63.65.12:8888/rtp/239.77.1.237:5146
+http://113.78.253.226:8888/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用2）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用2）
-http://58.63.65.12:8888/rtp/239.77.0.244:5146
+http://113.78.253.226:8888/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用3）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用3）
-http://58.63.65.12:8888/rtp/239.77.0.245:5146
+http://113.78.253.226:8888/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广州南国都市.png" group-title="UHD",南国都市4K
-http://58.63.65.12:8888/rtp/239.253.43.99:5146
+http://113.78.253.226:8888/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="百视通" tvg-name="百视通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-id="百视通（备用）" tvg-name="百视通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通（备用）
