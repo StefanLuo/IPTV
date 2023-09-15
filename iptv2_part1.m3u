@@ -219,8 +219,6 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.209:5140
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/劲爆体育.png" group-title="上海",劲爆体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="劲爆体育（备用）" tvg-name="劲爆体育" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/劲爆体育.png" group-title="上海",劲爆体育（备用）
-https://cntv.sbs/tv?auth=230830&id=jbty
 #EXTINF:-1 tvg-id="60" tvg-name="第一财经" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/上海第一财经.png" group-title="上海",第一财经HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="61" tvg-name="外语频道" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/上海ICS外语.png" group-title="上海",外语频道HD
