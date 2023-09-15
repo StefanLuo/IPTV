@@ -365,6 +365,8 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.107:5140
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="百视通4K儿童" tvg-name="百视通4K儿童" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="UHD",百视通4K儿童
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.1:5140
+#EXTINF:-1 tvg-id="百视通4K测试" tvg-name="百视通4K测试" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="UHD",百视通4K测试
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/纯享4K.png" group-title="UHD",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K（备用）" tvg-name="纯享4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/纯享4K.png" group-title="UHD",纯享4K（备用）
@@ -475,6 +477,28 @@ http://58.63.65.12:8888/rtp/239.253.43.99:5146
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-id="百视通（备用）" tvg-name="百视通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通（备用）
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 tvg-id="百视通直播1" tvg-name="百视通直播1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播1
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.53:5140
+#EXTINF:-1 tvg-id="百视通直播2" tvg-name="百视通直播2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播2
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.54:5140
+#EXTINF:-1 tvg-id="百视通直播3" tvg-name="百视通直播3" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播3
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.55:5140
+#EXTINF:-1 tvg-id="百视通直播4" tvg-name="百视通直播4" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播4
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.88:5140
+#EXTINF:-1 tvg-id="百视通直播5" tvg-name="百视通直播5" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播5
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.137:5140
+#EXTINF:-1 tvg-id="百视通直播6" tvg-name="百视通直播6" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播6
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.138:5140
+#EXTINF:-1 tvg-id="百视通直播7" tvg-name="百视通直播7" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播7
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.139:5140
+#EXTINF:-1 tvg-id="百视通直播8" tvg-name="百视通直播8" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播8
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.140:5140
+#EXTINF:-1 tvg-id="百视通直播9" tvg-name="百视通直播9" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播9
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.157:5140
+#EXTINF:-1 tvg-id="百视通直播10" tvg-name="百视通直播10" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播10
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.215:5140
+#EXTINF:-1 tvg-id="百视通直播11" tvg-name="百视通直播11" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播11
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.216:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文（备用1）" tvg-name="凤凰中文" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/凤凰卫视中文台.png" group-title="港澳",凤凰中文（备用1）
