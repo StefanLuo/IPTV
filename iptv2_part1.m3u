@@ -905,3 +905,17 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/海南卫视.png" group-title="海南",海南自贸
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北综合
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbzhhd_3000
+#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北经视
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbjsjd_3000
+#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北垄上
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hblshd_3000
+#EXTINF:-1 tvg-id="湖北公共·新闻" tvg-name="湖北公共·新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北公共·新闻
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbgghd_3000
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北影视
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbys_1000
+#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北教育
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbjy_1000
+#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="湖北",湖北生活
+https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbsh_1000
