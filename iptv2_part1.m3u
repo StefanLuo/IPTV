@@ -178,7 +178,7 @@ https://channellogocu.stefanluo.xyz:8443/lotus.php
 https://sc2022.stream-link.org/tv2306.php?id=h21
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/星空卫视.png" group-title="卫视",星空卫视
 #http://live.hust.edu.cn/hls/startv.m3u8
-http://110.185.213.204:4022/udp/239.93.0.156:2193
+http://110.184.198.246:8882/rtp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/魅力足球.png" group-title="上海",魅力足球HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="魅力足球（备用1）" tvg-name="魅力足球" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用1）
