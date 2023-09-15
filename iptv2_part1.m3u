@@ -463,6 +463,8 @@ http://110.184.198.246:8882/rtp/239.93.1.191:5140
 http://110.184.198.246:8882/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4KUHD.png" group-title="UHD",绚影4K
 http://110.184.198.246:8882/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="UHD",河南4K
+http://1.193.189.139:9112/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K
 http://113.78.253.226:8888/rtp/239.77.1.236:5146
 #EXTINF:-1 tvg-id="广东综艺4K（备用1）" tvg-name="广东综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="UHD",广东综艺4K（备用1）
@@ -577,32 +579,53 @@ https://sc2022.stream-link.org/tv2306.php?id=h24
 http://www.terrykang.cn:5678/sxg.php?id=wssj_4000
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",文物宝库
 http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
+#EXTINF:-1 tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南导视
+http://1.193.189.139:9112/rtp/239.16.20.17:10170
+#EXTINF:-1 tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",移动戏曲
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=ydxj
+http://1.193.189.139:9112/rtp/239.16.20.120:11200
+#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",睛彩中原
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=jczy
+http://1.193.189.139:9112/rtp/239.16.20.122:11220
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南都市
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnds
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnds
+http://1.193.189.139:9112/rtp/239.16.20.164:11640
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南民生
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnms
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnms
+http://1.193.189.139:9112/rtp/239.16.20.165:11650
 #EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南法治
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnfz
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnfz
+http://1.193.189.139:9112/rtp/239.16.20.166:11660
 #EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南电视剧
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hndsj
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hndsj
+http://1.193.189.139:9112/rtp/239.16.20.167:11670
 #EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南新闻
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnxw
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnxw
+http://1.193.189.139:9112/rtp/239.16.20.168:11680
 #EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南公共
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hngg
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hngg
+http://1.193.189.139:9112/rtp/239.16.20.170:11700
+#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南戏曲
+http://1.193.189.139:9112/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",收藏天下
+http://1.193.189.139:9112/rtp/239.16.20.172:11720
+#EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",中华功夫
+http://1.193.189.139:9112/rtp/239.16.20.173:11730
 #EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南乡村
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnxc
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnxc
+http://1.193.189.139:9112/rtp/239.16.20.195:11950
 #EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南国际
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=hngj
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=hngj
+http://1.193.189.139:9112/rtp/239.16.20.196:11960
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",河南梨园
 https://channellogocu.stefanluo.xyz:8443/henan.php?id=hnly
-#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",睛彩中原
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=jczy
-#EXTINF:-1 tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",移动戏曲
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=ydxj
 #EXTINF:-1 tvg-id="象视界" tvg-name="象视界" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",象视界
 https://channellogocu.stefanluo.xyz:8443/henan.php?id=xsj
+#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",移动电视
+http://1.193.189.139:9112/rtp/239.16.20.204:12040
 #EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="河南",国学频道
-https://channellogocu.stefanluo.xyz:8443/henan.php?id=gxpd
+#https://channellogocu.stefanluo.xyz:8443/henan.php?id=gxpd
+http://1.193.189.139:9112/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="斗鱼4K影院HD" tvg-name="斗鱼4K影院" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/斗鱼TV.png" group-title="影视",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="精彩连播" tvg-name="精彩连播" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/其他.png" group-title="影视",精彩连播
@@ -751,6 +774,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/精彩综艺.png" group-title="数字",精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/中华特产.png" group-title="数字",中华特产
+http://1.193.189.139:9112/rtp/239.16.20.132:11320
 #EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/爱电竞.png" group-title="IHOT",爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/爱谍战.png" group-title="IHOT",爱谍战
