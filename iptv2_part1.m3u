@@ -105,7 +105,7 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.124:5140
 #EXTINF:-1 tvg-id="101" tvg-name="四川卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="卫视",四川卫视HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.83:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/康巴卫视.png" group-title="卫视",康巴卫视HD
-http://lu1.cc/c/tv/sctv/scxl.php?id=kbws
+https://channellogocu.stefanluo.xyz:8443/sichuan.php?id=kbws
 #EXTINF:-1 tvg-id="102" tvg-name="重庆卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/重庆卫视.png" group-title="卫视",重庆卫视HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.84:5140
 #EXTINF:-1 tvg-id="103" tvg-name="贵州卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/贵州卫视.png" group-title="卫视",贵州卫视HD
@@ -158,6 +158,8 @@ https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="148" tvg-name="新疆卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.116:5140
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/新疆卫视.png" group-title="卫视",新疆卫视HD
+http://124.117.78.70:8000/udp/238.125.3.174:5140
 #EXTINF:-1 tvg-id="149" tvg-name="兵团卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/兵团卫视.png" group-title="卫视",兵团卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.117:5140
 #EXTINF:-1 tvg-id="150" tvg-name="三沙卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/三沙卫视.png" group-title="卫视",三沙卫视
@@ -711,6 +713,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="newtv海外剧场" tvg-name="NEWTV海外剧场" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/NEWTV海外剧场.png" group-title="NEWTV",NEWTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="newtv魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/魅力潇湘.png" group-title="NEWTV",NEWTV魅力潇湘
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="咪咕视频2" tvg-name="咪咕视频2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频2
