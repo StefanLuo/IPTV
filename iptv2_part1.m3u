@@ -421,17 +421,17 @@ http://159.75.85.63:8765/xxtv8k.php
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV8K（备用3）" tvg-name="CCTV8K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV8K.png" group-title="UHD",CCTV-8K（备用3）
 http://113.76.149.49:4022/rtp/239.253.43.106:5146
-#EXTINF:-1 tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K
+#EXTINF:-1 tvg-id="咪咕直播4K-1" tvg-name="咪咕直播4K-1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕直播4K-1
 http://r.jdshipin.com/ln4xk
-#EXTINF:-1 tvg-id="咪咕体育4K（备用1）" tvg-name="咪咕体育4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用1）
+#EXTINF:-1 tvg-id="咪咕直播4K-1（备用1）" tvg-name="咪咕直播4K-1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕直播4K-1（备用1）
 http://r.jdshipin.com/EmWIN
-#EXTINF:-1 tvg-id="咪咕体育4K（备用2）" tvg-name="咪咕体育4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用2）
+#EXTINF:-1 tvg-id="咪咕直播4K-1（备用2）" tvg-name="咪咕直播4K-1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕直播4K-1（备用2）
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕体育4K（备用3）" tvg-name="咪咕体育4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K（备用3）
+#EXTINF:-1 tvg-id="咪咕直播4K-1（备用3）" tvg-name="咪咕直播4K-1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕直播4K-1（备用3）
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="咪咕体育4K-2" tvg-name="咪咕体育4K-2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K-2
+#EXTINF:-1 tvg-id="咪咕直播4K-2" tvg-name="咪咕直播4K-2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕直播4K-2
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕体育4K-2（备用）" tvg-name="咪咕体育4K-2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕体育4K-2（备用）
+#EXTINF:-1 tvg-id="咪咕直播4K-2（备用）" tvg-name="咪咕直播4K-2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="UHD",咪咕直播4K-2（备用）
 http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4K修复.png" group-title="UHD",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -717,16 +717,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="newtv魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/魅力潇湘.png" group-title="NEWTV",NEWTV魅力潇湘
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="咪咕视频2" tvg-name="咪咕视频2" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="咪咕视频3" tvg-name="咪咕视频3" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="咪咕视频4" tvg-name="咪咕视频4" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="咪咕视频5" tvg-name="咪咕视频5" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/咪咕视频.png" group-title="咪咕",咪咕视频5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/求索记录.png" group-title="华数",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/求索生活.png" group-title="华数",求索生活
