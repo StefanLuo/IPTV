@@ -161,7 +161,7 @@ https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8
 #EXTINF:-1 tvg-id="148" tvg-name="新疆卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.116:5140
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/新疆卫视.png" group-title="卫视",新疆卫视HD
-http://124.117.78.70:8000/udp/238.125.3.174:5140
+http://120.69.28.123:65500/rtp/238.125.3.174:5140
 #EXTINF:-1 tvg-id="149" tvg-name="兵团卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/兵团卫视.png" group-title="卫视",兵团卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.117:5140
 #EXTINF:-1 tvg-id="150" tvg-name="三沙卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/三沙卫视.png" group-title="卫视",三沙卫视
