@@ -750,7 +750,7 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/女性时尚.png" group-title="数字",女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/卫生健康.png" group-title="数字",卫生健康
-https://live.goodiptv.club/api/yqgd.php?id=wsjk
+https://channellogocu.stefanluo.xyz:8443/shanxi.php?id=wsjk
 #EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/老故事.png" group-title="数字",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/发现之旅.png" group-title="数字",发现之旅
