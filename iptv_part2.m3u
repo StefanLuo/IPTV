@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="CCTV4欧洲（备用）" tvg-name="CCTV-4欧洲" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/StefanLuo/IPTV/main/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲HD（备用）
 http://mmitv.top/igmp/multicast.php?id=cctv4oz&ext=28ad5634
