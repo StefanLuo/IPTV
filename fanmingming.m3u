@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/东南卫视.png" group-title="福建",福建综合
 https://cntv.sbs/tv?auth=2309081833&id=fjzh
