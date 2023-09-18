@@ -135,7 +135,7 @@ https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-id="217" tvg-name="山西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/山西卫视.png" group-title="卫视",山西卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.229:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/山西卫视.png" group-title="卫视",山西卫视HD
-http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
+http://60.220.167.18:8085/rtp/226.0.2.152:9128
 #EXTINF:-1 tvg-id="170" tvg-name="青海卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/青海卫视.png" group-title="卫视",青海卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.230:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/青海卫视.png" group-title="卫视",青海卫视HD
