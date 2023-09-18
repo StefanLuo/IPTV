@@ -921,6 +921,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/浙江卫视.png" group-title="浙江",浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/海南卫视.png" group-title="海南",海南新闻
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/海南卫视.png" group-title="海南",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/海南卫视.png" group-title="海南",海南文旅
