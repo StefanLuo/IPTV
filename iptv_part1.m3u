@@ -95,7 +95,7 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.120:5140
 #EXTINF:-1 tvg-id="151" tvg-name="东南卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/东南卫视.png" group-title="卫视",东南卫视HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.121:5140
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/海峡卫视.png" group-title="卫视",海峡卫视HD
-http://r.jdshipin.com/WtYt3
+http://202207182221.iptv.z-link.cn:8800/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="152" tvg-name="江西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/江西卫视.png" group-title="卫视",江西卫视HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.122:5140
 #EXTINF:-1 tvg-id="153" tvg-name="辽宁卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视HD
