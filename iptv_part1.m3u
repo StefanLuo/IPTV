@@ -306,29 +306,29 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.45:5140
 #EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/金鹰卡通.png" group-title="湖南",金鹰卡通
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南经视.png" group-title="湖南",湖南经视
-http://175.0.37.33:8889/rtp/239.76.252.116:9000
+http://118.251.61.71:8888/rtp/239.76.252.116:9000
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南都市.png" group-title="湖南",湖南都市
-http://175.0.37.33:8889/rtp/239.76.252.117:9000
+http://118.251.61.71:8888/rtp/239.76.252.117:9000
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://175.0.37.33:8889/rtp/239.76.252.118:9000
+http://118.251.61.71:8888/rtp/239.76.252.118:9000
 #EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南电影.png" group-title="湖南",湖南电影
-http://175.0.37.33:8889/rtp/239.76.252.119:9000
+http://118.251.61.71:8888/rtp/239.76.252.119:9000
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://175.0.37.33:8889/rtp/239.76.252.121:9000
+http://118.251.61.71:8888/rtp/239.76.252.121:9000
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://175.0.37.33:8889/rtp/239.76.252.123:9000
+http://118.251.61.71:8888/rtp/239.76.252.123:9000
 #EXTINF:-1 tvg-id="湖南卫视国际" tvg-name="湖南国际" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南国际.png" group-title="湖南",湖南国际
-http://175.0.37.33:8889/rtp/239.76.252.124:9000
+http://118.251.61.71:8888/rtp/239.76.252.124:9000
 #EXTINF:-1 tvg-id="湖南教育电视台" tvg-name="湖南教育" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/湖南国际.png" group-title="湖南",湖南教育
-http://175.0.37.33:8889/rtp/239.76.252.233:9000
+http://118.251.61.71:8888/rtp/239.76.252.233:9000
 #EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/长沙新闻综合.png" group-title="湖南",长沙新闻综合
-http://175.0.37.33:8889/rtp/239.76.253.121:9000
+http://118.251.61.71:8888/rtp/239.76.253.121:9000
 #EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/长沙政法.png" group-title="湖南",长沙政法
-http://175.0.37.33:8889/rtp/239.76.253.122:9000
+http://118.251.61.71:8888/rtp/239.76.253.122:9000
 #EXTINF:-1 tvg-id="长沙女性" tvg-name="长沙女性" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/长沙女性.png" group-title="湖南",长沙女性
-http://175.0.37.33:8889/rtp/239.76.252.23:9000
+http://118.251.61.71:8888/rtp/239.76.252.23:9000
 #EXTINF:-1 tvg-id="长沙影视" tvg-name="长沙影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/长沙影视.png" group-title="湖南",长沙影视
-http://175.0.37.33:8889/rtp/239.76.252.204:9000
+http://118.251.61.71:8888/rtp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="686" tvg-name="一年级" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",一年级
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.28:5140
 #EXTINF:-1 tvg-id="687" tvg-name="二年级" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",二年级
