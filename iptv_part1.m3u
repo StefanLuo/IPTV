@@ -639,10 +639,6 @@ http://1.193.189.139:9112/rtp/239.16.20.232:12320
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="精彩连播" tvg-name="精彩连播" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/其他.png" group-title="影视",精彩连播
 http://110.184.198.246:8882/rtp/239.93.1.156:5140
-#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="影视",峨眉电影
-http://r.jdshipin.com/XIjta
-#EXTINF:-1 tvg-id="峨眉电影（备用）" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="影视",峨眉电影（备用）
-http://r.jdshipin.com/vFgDS
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4K超高清电影.png" group-title="影视",4K超高清电影
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 tvg-id="4K超高清电影（备用）" tvg-name="4K超高清电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/4K超高清电影.png" group-title="影视",4K超高清电影（备用）
@@ -963,3 +959,23 @@ https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxys
 https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxgg
 #EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西体育休闲
 https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxtyxx
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",峨眉电影
+http://r.jdshipin.com/XIjta
+#EXTINF:-1 tvg-id="峨眉电影（备用1）" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",峨眉电影（备用1）
+http://r.jdshipin.com/vFgDS
+#EXTINF:-1 tvg-id="峨眉电影（备用2）" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",峨眉电影（备用2）
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=emdygqH265_4000
+#EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川文化旅游
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-2-H265_4000
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川经济
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-3-H265_4000
+#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川新闻
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-4H265_4000
+#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川影视文艺
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-5-scysH265_4000
+#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川妇女儿童
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-7-_4000
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川科教
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-ggSCTV-8_4000
+#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川乡村
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-kjSCTV-9-_4000
