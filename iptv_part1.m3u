@@ -151,7 +151,9 @@ http://zgntv.icu/live/xztv.php?id=1
 #EXTINF:-1 tvg-id="220" tvg-name="陕西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="卫视",陕西卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.232:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="卫视",陕西卫视HD
-http://r.jdshipin.com/2Y0Ve
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxws
+#EXTINF:-1 tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxnlws
 #EXTINF:-1 tvg-id="226" tvg-name="内蒙古卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.238:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视HD
@@ -947,3 +949,17 @@ https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbjy_1000
 https://channellogocu.stefanluo.xyz:8443/hubei.php?id=hbsh_1000
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/江苏影视.png" group-title="江苏",江苏国际
 https://channellogocu.stefanluo.xyz:8443/jiangsu.php?id=jsgj
+#EXTINF:-1 tvg-id="陕西西部电影" tvg-name="陕西西部电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西西部电影
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxxbdy
+#EXTINF:-1 tvg-id="陕西新闻资讯" tvg-name="陕西新闻资讯" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西新闻资讯
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxxwzx
+#EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西都市青春" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西都市青春
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxdsqc
+#EXTINF:-1 tvg-id="陕西生活" tvg-name="陕西生活" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西生活
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxsh
+#EXTINF:-1 tvg-id="陕西影视" tvg-name="陕西影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西影视
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxys
+#EXTINF:-1 tvg-id="陕西公共" tvg-name="陕西公共" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西公共
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxgg
+#EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="陕西",陕西体育休闲
+https://channellogocu.stefanluo.xyz:8443/shannxi.php?id=sxtyxx
