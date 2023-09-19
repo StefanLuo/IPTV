@@ -975,9 +975,9 @@ http://r.jdshipin.com/vFgDS
 #EXTINF:-1 tvg-id="峨眉电影（备用2）" tvg-name="峨眉电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",峨眉电影（备用2）
 https://channellogocu.stefanluo.xyz:8443/sxg.php?id=emdygqH265_4000
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川文化旅游
-https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-2-H265_4000
-#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川经济
 https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-3-H265_4000
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川经济
+https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-2-H265_4000
 #EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川新闻
 https://channellogocu.stefanluo.xyz:8443/sxg.php?id=SCTV-4H265_4000
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="四川",四川影视文艺
