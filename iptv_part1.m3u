@@ -757,7 +757,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 http://www.terrykang.cn:5678/sxg.php?id=zxs_4000
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/中国交通.png" group-title="数字",中国交通
 #https://tv.lanjingfm.com/cctbn/hainan.m3u8
-http://14.126.125.116:10001/rtp/239.77.1.249:5146
+#http://14.126.125.116:10001/rtp/239.77.1.249:5146
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/新动漫.png" group-title="数字",新动漫
 https://live.goodiptv.club/api/cqyx.php?id=dongman
 #EXTINF:-1 tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/京视剧场.png" group-title="数字",京视剧场
