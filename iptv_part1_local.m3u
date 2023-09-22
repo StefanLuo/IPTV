@@ -571,7 +571,7 @@ http://51.89.21.73:27347/livehttpplay?channel_id=20152
 https://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1 tvg-id="HOYTV资讯" tvg-name="HOY资讯" tvg-logo="http://192.168.2.3:8091/Logo/HOY资讯.png" group-title="港澳",HOY资讯
 https://sc2022.stream-link.org/tv2306.php?id=h17
-#EXTINF:-1 tvg-id="Channel[V]" tvg-name="Channel[V]" tvg-logo="http://192.168.2.3:8091/Logo/Channel[V].png" group-title="港澳",Channel [V]
+#EXTINF:-1 tvg-id="Channel[V]" tvg-name="Channel[V]" tvg-logo="http://192.168.2.3:8091/Logo/Channel[V].png" group-title="港澳",Channel V
 http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="http://192.168.2.3:8091/Logo/澳视澳门.png" group-title="港澳",澳视澳门
 https://sc2022.stream-link.org/tv2306.php?id=h08
