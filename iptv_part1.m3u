@@ -1,49 +1,49 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="111" tvg-name="CCTV-1" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV1.png" group-title="央视",CCTV-1HD
-udp://@239.45.3.145:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV2.png" group-title="央视",CCTV-2HD
-udp://@239.45.0.1:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV3.png" group-title="央视",CCTV-3HD
-udp://@239.45.1.68:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.68:5140
 #EXTINF:-1 tvg-id="127" tvg-name="CCTV-4" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV4.png" group-title="央视",CCTV-4HD
-udp://@239.45.0.2:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲HD
 http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV-4美洲" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲HD
 http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 #EXTINF:-1 tvg-id="128" tvg-name="CCTV-5" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV5.png" group-title="央视",CCTV-5HD
-udp://@239.45.1.69:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="123" tvg-name="CCTV-5+" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV5+.png" group-title="央视",CCTV-5+HD
-udp://@239.45.0.34:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="129" tvg-name="CCTV-6" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV6.png" group-title="央视",CCTV-6HD
-udp://@239.45.1.70:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.70:5140
 #EXTINF:-1 tvg-id="130" tvg-name="CCTV-7" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV7.png" group-title="央视",CCTV-7HD
-udp://@239.45.3.56:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.56:5140
 #EXTINF:-1 tvg-id="131" tvg-name="CCTV-8" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV8.png" group-title="央视",CCTV-8HD
-udp://@239.45.1.71:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.71:5140
 #EXTINF:-1 tvg-id="132" tvg-name="CCTV-9" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV9.png" group-title="央视",CCTV-9HD
-udp://@239.45.3.4:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.4:5140
 #EXTINF:-1 tvg-id="133" tvg-name="CCTV-10" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV10.png" group-title="央视",CCTV-10HD
-udp://@239.45.3.8:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.8:5140
 #EXTINF:-1 tvg-id="134" tvg-name="CCTV-11" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV11.png" group-title="央视",CCTV-11HD
-udp://@239.45.0.18:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.18:5140
 #EXTINF:-1 tvg-id="135" tvg-name="CCTV-12" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV12.png" group-title="央视",CCTV-12HD
-udp://@239.45.3.10:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.10:5140
 #EXTINF:-1 tvg-id="136" tvg-name="CCTV-13" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV13.png" group-title="央视",CCTV-13HD
-udp://@239.45.0.19:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.19:5140
 #EXTINF:-1 tvg-id="137" tvg-name="CCTV-14" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV14.png" group-title="央视",CCTV-14HD
-udp://@239.45.3.23:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="138" tvg-name="CCTV-15" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV15.png" group-title="央视",CCTV-15HD
-udp://@239.45.0.20:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.20:5140
 #EXTINF:-1 tvg-id="179" tvg-name="CCTV-16" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="央视",CCTV-16HD
-udp://@239.45.0.10:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.10:5140
 #EXTINF:-1 tvg-id="140" tvg-name="CCTV-17" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV17.png" group-title="央视",CCTV-17HD
-udp://@239.45.3.52:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV4K.png" group-title="央视",CCTV-4K.HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="CGTN" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CGTN.png" group-title="央视",CGTN
-udp://@239.45.1.194:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="CGTN.HD" tvg-name="CGTN" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CGTN.png" group-title="央视",CGTN.HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CGTNDoc.png" group-title="央视",CGTN纪录
@@ -57,117 +57,117 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m3u8?blog.nt
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西班牙语" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CGTN西语.png" group-title="央视",CGTN西班牙语
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227098/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="155" tvg-name="中国教育-1" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/中国教育1台.png" group-title="央视",中国教育-1HD
-udp://@239.45.1.125:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="239" tvg-name="中国教育-2" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/中国教育2台.png" group-title="央视",中国教育-2
-udp://@239.45.1.52:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育-3" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/中国教育3台.png" group-title="央视",中国教育-3HD
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-id="169" tvg-name="中国教育-4" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/中国教育4台.png" group-title="央视",中国教育-4HD
-udp://@239.45.0.21:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.21:5140
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/早期教育.png" group-title="央视",早期教育HD
 https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 #EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/东方卫视.png" group-title="卫视",东方卫视HD
-udp://@239.45.3.146:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/浙江卫视.png" group-title="卫视",浙江卫视HD
-udp://@239.45.3.178:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="142" tvg-name="江苏卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/江苏卫视.png" group-title="卫视",江苏卫视HD
-udp://@239.45.3.177:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.177:5140
 #EXTINF:-1 tvg-id="143" tvg-name="湖南卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/湖南卫视.png" group-title="卫视",湖南卫视HD
-udp://@239.45.3.228:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.228:5140
 #EXTINF:-1 tvg-id="144" tvg-name="北京卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="卫视",北京卫视HD
-udp://@239.45.3.229:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.229:5140
 #EXTINF:-1 tvg-id="145" tvg-name="广东卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/广东卫视.png" group-title="卫视",广东卫视HD
-udp://@239.45.3.230:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.230:5140
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="大湾区卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/大湾区卫视.png" group-title="卫视",大湾区卫视HD
 https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="深圳卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/深圳卫视.png" group-title="卫视",深圳卫视HD
-udp://@239.45.3.231:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.231:5140
 #EXTINF:-1 tvg-id="147" tvg-name="黑龙江卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视HD
-udp://@239.45.3.232:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.232:5140
 #EXTINF:-1 tvg-id="148" tvg-name="山东卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/山东卫视.png" group-title="卫视",山东卫视HD
-udp://@239.45.3.238:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.238:5140
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/山东教育.png" group-title="卫视",山东教育卫视HD
 http://182.45.178.62:808/hls/202330/index.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="湖北卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/湖北卫视.png" group-title="卫视",湖北卫视HD
-udp://@239.45.3.239:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.239:5140
 #EXTINF:-1 tvg-id="150" tvg-name="安徽卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/安徽卫视.png" group-title="卫视",安徽卫视HD
-udp://@239.45.1.120:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.120:5140
 #EXTINF:-1 tvg-id="151" tvg-name="东南卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/东南卫视.png" group-title="卫视",东南卫视HD
-udp://@239.45.1.121:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.121:5140
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/海峡卫视.png" group-title="卫视",海峡卫视HD
 http://117.28.113.183:8888/rtp/239.61.2.151:8894
 #EXTINF:-1 tvg-id="152" tvg-name="江西卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/江西卫视.png" group-title="卫视",江西卫视HD
-udp://@239.45.1.122:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.122:5140
 #EXTINF:-1 tvg-id="153" tvg-name="辽宁卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视HD
-udp://@239.45.1.123:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.123:5140
 #EXTINF:-1 tvg-id="154" tvg-name="天津卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/天津卫视.png" group-title="卫视",天津卫视HD
-udp://@239.45.1.124:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.124:5140
 #EXTINF:-1 tvg-id="156" tvg-name="四川卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/四川卫视.png" group-title="卫视",四川卫视HD
-udp://@239.45.1.83:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.83:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/康巴卫视.png" group-title="卫视",康巴卫视HD
 https://iptvcu.stefanluo.xyz:8443/sichuan.php?id=kbws
 #EXTINF:-1 tvg-id="157" tvg-name="重庆卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/重庆卫视.png" group-title="卫视",重庆卫视HD
-udp://@239.45.1.84:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.84:5140
 #EXTINF:-1 tvg-id="158" tvg-name="贵州卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/贵州卫视.png" group-title="卫视",贵州卫视HD
-udp://@239.45.1.80:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.80:5140
 #EXTINF:-1 tvg-id="159" tvg-name="海南卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/海南卫视.png" group-title="卫视",海南卫视HD
-udp://@239.45.1.81:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.81:5140
 #EXTINF:-1 tvg-id="160" tvg-name="河北卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/河北卫视.png" group-title="卫视",河北卫视HD
-udp://@239.45.1.44:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.44:5140
 #EXTINF:-1 tvg-id="163" tvg-name="河南卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/河南卫视.png" group-title="卫视",河南卫视HD
-udp://@239.45.0.3:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.3:5140
 #EXTINF:-1 tvg-id="164" tvg-name="云南卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/云南卫视.png" group-title="卫视",云南卫视HD
-udp://@239.45.0.4:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.4:5140
 #EXTINF:-1 tvg-id="165" tvg-name="广西卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/广西卫视.png" group-title="卫视",广西卫视HD
-udp://@239.45.0.5:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.5:5140
 #EXTINF:-1 tvg-id="166" tvg-name="吉林卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/吉林卫视.png" group-title="卫视",吉林卫视HD
-udp://@239.45.0.6:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.6:5140
 #EXTINF:-1 tvg-id="243" tvg-name="延边卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/延边卫视.png" group-title="卫视",延边卫视
-udp://@239.45.0.39:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.39:5140
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/延边卫视.png" group-title="卫视",延边卫视HD
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="甘肃卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视HD
-udp://@239.45.0.15:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.15:5140
 #EXTINF:-1 tvg-id="201" tvg-name="宁夏卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-udp://@239.45.1.213:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.213:5140
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/宁夏卫视.png" group-title="卫视",宁夏卫视HD
 https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-id="217" tvg-name="山西卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/山西卫视.png" group-title="卫视",山西卫视
-udp://@239.45.1.229:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.229:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/山西卫视.png" group-title="卫视",山西卫视HD
 http://60.223.72.5:8003/rtp/226.0.2.152:9128
 #EXTINF:-1 tvg-id="170" tvg-name="青海卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/青海卫视.png" group-title="卫视",青海卫视
-udp://@239.45.1.230:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.230:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/青海卫视.png" group-title="卫视",青海卫视HD
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/安多卫视.png" group-title="卫视",安多卫视HD
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-id="219" tvg-name="西藏卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/西藏卫视.png" group-title="卫视",西藏卫视
-udp://@239.45.1.231:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.231:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/西藏卫视.png" group-title="卫视",西藏卫视HD
 http://zgntv.icu/live/xztv.php?id=0
 #EXTINF:-1 tvg-id="西藏藏语卫视" tvg-name="西藏藏语卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视HD
 http://zgntv.icu/live/xztv.php?id=1
 #EXTINF:-1 tvg-id="220" tvg-name="陕西卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="卫视",陕西卫视
-udp://@239.45.1.232:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.232:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/陕西卫视.png" group-title="卫视",陕西卫视HD
 https://iptvcu.stefanluo.xyz:8443/shannxi.php?id=sxws
 #EXTINF:-1 tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
 https://iptvcu.stefanluo.xyz:8443/shannxi.php?id=sxnlws
 #EXTINF:-1 tvg-id="226" tvg-name="内蒙古卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-udp://@239.45.1.238:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.238:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视HD
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="内蒙古蒙古语卫视" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="232" tvg-name="新疆卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/新疆卫视.png" group-title="卫视",新疆卫视
-udp://@239.45.1.116:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.116:5140
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/新疆卫视.png" group-title="卫视",新疆卫视HD
 http://120.69.28.123:65500/rtp/238.125.3.174:5140
 #EXTINF:-1 tvg-id="233" tvg-name="兵团卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/兵团卫视.png" group-title="卫视",兵团卫视
-udp://@239.45.1.117:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.117:5140
 #EXTINF:-1 tvg-id="234" tvg-name="三沙卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/三沙卫视.png" group-title="卫视",三沙卫视
-udp://@239.45.1.82:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.82:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/三沙卫视.png" group-title="卫视",三沙卫视HD
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/厦门卫视.png" group-title="卫视",厦门卫视
@@ -186,7 +186,7 @@ https://sc2022.stream-link.org/tv2306.php?id=h21
 #http://live.hust.edu.cn/hls/startv.m3u8
 http://110.184.198.246:8882/rtp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/魅力足球.png" group-title="上海",魅力足球HD
-udp://@239.45.3.22:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="魅力足球（备用1）" tvg-name="魅力足球" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/魅力足球.png" group-title="上海",魅力足球HD（备用1）
 https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/新视觉.png" group-title="上海",新视觉
@@ -194,49 +194,49 @@ https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 #EXTINF:-1 tvg-id="新视觉（备用1）" tvg-name="新视觉" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/新视觉.png" group-title="上海",新视觉（备用1）
 http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xsjhd8m/8000000/d3.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="游戏风云" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/游戏风云.png" group-title="上海",游戏风云HD
-udp://@239.45.3.131:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="94" tvg-name="生活时尚" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/生活时尚.png" group-title="上海",生活时尚HD
-udp://@239.45.3.132:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="96" tvg-name="动漫秀场" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/动漫秀场.png" group-title="上海",动漫秀场HD
-udp://@239.45.3.134:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-id="98" tvg-name="都市剧场" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/SITV都市剧场.png" group-title="上海",都市剧场HD
-udp://@239.45.3.136:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="99" tvg-name="法治天地" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/SITV法治天地.png" group-title="上海",法治天地HD
-udp://@239.45.1.46:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.46:5140
 #EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/欢笑剧场.png" group-title="上海",欢笑剧场HD
-udp://@239.45.3.196:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="103" tvg-name="都市频道" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/上海都市.png" group-title="上海",都市频道HD
-udp://@239.45.3.236:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="104" tvg-name="哈哈炫动" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/哈哈炫动.png" group-title="上海",哈哈炫动HD
-udp://@239.45.1.55:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.55:5140
 #EXTINF:-1 tvg-id="105" tvg-name="东方影视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/东方影视.png" group-title="上海",东方影视HD
-udp://@239.45.3.237:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.237:5140
 #EXTINF:-1 tvg-id="106" tvg-name="纪实人文" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/纪实人文.png" group-title="上海",纪实人文HD
-udp://@239.45.3.212:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.212:5140
 #EXTINF:-1 tvg-id="107" tvg-name="新闻综合" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/上海新闻综合.png" group-title="上海",新闻综合HD
-udp://@239.45.3.209:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="108" tvg-name="五星体育" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/五星体育.png" group-title="上海",五星体育HD
-udp://@239.45.3.210:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/劲爆体育.png" group-title="上海",劲爆体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="109" tvg-name="第一财经" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/上海第一财经.png" group-title="上海",第一财经HD
-udp://@239.45.3.211:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="110" tvg-name="外语频道" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/上海ICS外语.png" group-title="上海",外语频道HD
-udp://@239.45.1.127:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="120" tvg-name="金色学堂" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/SITV金色学堂.png" group-title="上海",金色学堂HD
-udp://@239.45.0.9:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.9:5140
 #EXTINF:-1 tvg-id="上海导视" tvg-name="上海导视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/上海导视.png" group-title="上海",上海导视
-udp://@239.45.3.240:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.240:5140
 #EXTINF:-1 tvg-id="116" tvg-name="上海教育" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/上海教育.png" group-title="上海",上海教育HD
-udp://@239.45.0.13:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="350" tvg-name="家庭理财" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/家庭理财.png" group-title="上海",家庭理财
-udp://@239.45.0.14:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="97" tvg-name="乐游" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/乐游.png" group-title="上海",乐游HD
-udp://@239.45.3.135:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="117" tvg-name="七彩戏剧" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/七彩戏剧.png" group-title="上海",七彩戏剧HD
-udp://@239.45.0.16:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="118" tvg-name="东方财经" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/东方财经.png" group-title="上海",东方财经HD
-udp://@239.45.0.17:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/北京文艺.png" group-title="北京",北京文艺HD
 http://123.118.63.235:8686/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/北京影视.png" group-title="北京",北京影视HD
@@ -268,13 +268,13 @@ http://123.118.63.235:8686/rtp/239.3.1.95:8001
 #http://qnap.yjnhome.com:4000/rtp/239.3.1.100:8001
 http://123.118.63.235:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="162" tvg-name="纪实科教" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/北京纪实科教.png" group-title="北京",纪实科教HD
-udp://@239.45.1.14:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="167" tvg-name="卡酷少儿" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/卡酷少儿.png" group-title="北京",卡酷少儿HD
-udp://@239.45.0.8:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.8:5140
 #EXTINF:-1 tvg-id="326" tvg-name="中国天气" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/中国天气.png" group-title="北京",中国天气
-udp://@239.45.1.47:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="236" tvg-name="嘉佳卡通" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/嘉佳卡通.png" group-title="广东",嘉佳卡通
-udp://@239.45.1.48:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.48:5140
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/嘉佳卡通.png" group-title="广东",嘉佳卡通HD
 https://php.17186.eu.org/gdtv/web/jjkt.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/广东珠江.png" group-title="广东",广东珠江HD
@@ -294,17 +294,17 @@ https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/广州影视.png" group-title="广东",广州影视HD
 https://justsometime.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="财富天下" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/财富天下.png" group-title="数字",财富天下
-udp://@239.45.0.7:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.7:5140
 #EXTINF:-1 tvg-id="83" tvg-name="快乐垂钓" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/快乐垂钓.png" group-title="湖南",快乐垂钓
-udp://@239.45.3.12:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/快乐垂钓.png" group-title="湖南",先锋乒羽
 https://iptvcu.stefanluo.xyz:8443/sxg.php?id=xfpy_4000
 #EXTINF:-1 tvg-id="84" tvg-name="茶频道" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/茶频道.png" group-title="湖南",茶频道
-udp://@239.45.3.18:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="161" tvg-name="金鹰纪实" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/金鹰纪实.png" group-title="湖南",金鹰纪实
-udp://@239.45.1.45:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.45:5140
 #EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/金鹰卡通.png" group-title="湖南",金鹰卡通
-udp://@239.45.0.38:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.38:5140
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/湖南经视.png" group-title="湖南",湖南经视
 http://118.251.61.71:8888/rtp/239.76.252.116:9000
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/湖南都市.png" group-title="湖南",湖南都市
@@ -330,41 +330,41 @@ http://118.251.61.71:8888/rtp/239.76.252.23:9000
 #EXTINF:-1 tvg-id="长沙影视" tvg-name="长沙影视" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/长沙影视.png" group-title="湖南",长沙影视
 http://118.251.61.71:8888/rtp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="686" tvg-name="一年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",一年级
-udp://@239.45.1.28:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.28:5140
 #EXTINF:-1 tvg-id="687" tvg-name="二年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",二年级
-udp://@239.45.1.29:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.29:5140
 #EXTINF:-1 tvg-id="688" tvg-name="三年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",三年级
-udp://@239.45.1.30:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.30:5140
 #EXTINF:-1 tvg-id="689" tvg-name="四年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",四年级
-udp://@239.45.1.31:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.31:5140
 #EXTINF:-1 tvg-id="690" tvg-name="五年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",五年级
-udp://@239.45.1.32:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.32:5140
 #EXTINF:-1 tvg-id="691" tvg-name="六年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",六年级
-udp://@239.45.1.33:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.33:5140
 #EXTINF:-1 tvg-id="692" tvg-name="七年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",七年级
-udp://@239.45.1.34:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.34:5140
 #EXTINF:-1 tvg-id="693" tvg-name="八年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",八年级
-udp://@239.45.1.35:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.35:5140
 #EXTINF:-1 tvg-id="694" tvg-name="九年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",九年级
-udp://@239.45.1.36:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.36:5140
 #EXTINF:-1 tvg-id="695" tvg-name="高一年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",高一年级
-udp://@239.45.1.37:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.37:5140
 #EXTINF:-1 tvg-id="696" tvg-name="高二年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",高二年级
-udp://@239.45.1.38:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.38:5140
 #EXTINF:-1 tvg-id="697" tvg-name="高三年级" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/其他.png" group-title="空中课堂",高三年级
-udp://@239.45.1.39:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.39:5140
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/欢笑剧场.png" group-title="UHD",欢笑剧场4K
-udp://@239.45.1.4:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.4:5140
 #EXTINF:-1 tvg-id="欢笑剧场4K（备用2）" tvg-name="欢笑剧场" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/欢笑剧场.png" group-title="UHD",欢笑剧场4K（备用2）
 https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 #EXTINF:-1 tvg-id="百视通4K电影" tvg-name="百视通4K电影" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="UHD",百视通4K电影
-udp://@239.45.3.107:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="百视通4K纪实" tvg-name="百视通4K纪实" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="UHD",百视通4K纪实
-udp://@239.45.1.10:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-id="百视通4K儿童" tvg-name="百视通4K儿童" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="UHD",百视通4K儿童
-udp://@239.45.1.1:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="百视通4K测试" tvg-name="百视通4K测试" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="UHD",百视通4K测试
-udp://@239.45.1.108:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/纯享4K.png" group-title="UHD",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K（备用）" tvg-name="纯享4K" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/纯享4K.png" group-title="UHD",纯享4K（备用）
@@ -392,7 +392,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212282
 #EXTINF:-1 tvg-id="CCTV4K（备用5）" tvg-name="CCTV4K" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用5）
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K
-udp://@239.45.0.12:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.12:5140
 #EXTINF:-1 tvg-id="CCTV16（备用1）" tvg-name="CCTV-16" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用1）
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="CCTV16（备用2）" tvg-name="CCTV-16" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/CCTV16.png" group-title="UHD",CCTV-16.4K（备用2）
@@ -482,27 +482,27 @@ http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/ind
 #EXTINF:-1 tvg-id="百视通（备用）" tvg-name="百视通" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通（备用）
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 #EXTINF:-1 tvg-id="百视通直播1" tvg-name="百视通直播1" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播1
-udp://@239.45.3.53:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.53:5140
 #EXTINF:-1 tvg-id="百视通直播2" tvg-name="百视通直播2" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播2
-udp://@239.45.3.54:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.54:5140
 #EXTINF:-1 tvg-id="百视通直播3" tvg-name="百视通直播3" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播3
-udp://@239.45.3.55:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.55:5140
 #EXTINF:-1 tvg-id="百视通直播4" tvg-name="百视通直播4" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播4
-udp://@239.45.3.88:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.88:5140
 #EXTINF:-1 tvg-id="百视通直播5" tvg-name="百视通直播5" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播5
-udp://@239.45.3.137:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.137:5140
 #EXTINF:-1 tvg-id="百视通直播6" tvg-name="百视通直播6" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播6
-udp://@239.45.3.138:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.138:5140
 #EXTINF:-1 tvg-id="百视通直播7" tvg-name="百视通直播7" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播7
-udp://@239.45.3.139:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.139:5140
 #EXTINF:-1 tvg-id="百视通直播8" tvg-name="百视通直播8" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播8
-udp://@239.45.3.140:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.140:5140
 #EXTINF:-1 tvg-id="百视通直播9" tvg-name="百视通直播9" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播9
-udp://@239.45.3.157:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.157:5140
 #EXTINF:-1 tvg-id="百视通直播10" tvg-name="百视通直播10" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播10
-udp://@239.45.3.215:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.215:5140
 #EXTINF:-1 tvg-id="百视通直播11" tvg-name="百视通直播11" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/BesTV-4K.png" group-title="百视通",百视通直播11
-udp://@239.45.3.216:5140
+https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.216:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文（备用1）" tvg-name="凤凰中文" tvg-logo="https://iptvcu.stefanluo.xyz:8443/Logo/凤凰卫视中文台.png" group-title="港澳",凤凰中文（备用1）
