@@ -135,7 +135,7 @@ https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-id="217" tvg-name="山西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/山西卫视.png" group-title="卫视",山西卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.229:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/山西卫视.png" group-title="卫视",山西卫视HD
-http://60.220.167.18:8085/rtp/226.0.2.152:9128
+http://60.223.72.5:8003/rtp/226.0.2.152:9128
 #EXTINF:-1 tvg-id="170" tvg-name="青海卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/青海卫视.png" group-title="卫视",青海卫视
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.230:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/青海卫视.png" group-title="卫视",青海卫视HD
@@ -238,37 +238,35 @@ https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="118" tvg-name="东方财经" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/东方财经.png" group-title="上海",东方财经HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京文艺.png" group-title="北京",北京文艺HD
-http://111.196.130.165:4022/rtp/239.3.1.242:8000
+http://123.118.63.235:8686/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京影视.png" group-title="北京",北京影视HD
-http://111.196.130.165:4022/rtp/239.3.1.158:8000
+http://123.118.63.235:8686/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京财经.png" group-title="北京",北京财经HD
-http://111.196.130.165:4022/rtp/239.3.1.116:8000
+http://123.118.63.235:8686/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京生活.png" group-title="北京",北京生活HD
-http://111.196.130.165:4022/rtp/239.3.1.117:8000
+http://123.118.63.235:8686/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京新闻.png" group-title="北京",北京新闻HD
-http://111.196.130.165:4022/rtp/239.3.1.159:8000
+http://123.118.63.235:8686/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京体育休闲.png" group-title="北京",北京体育休闲HD
-http://111.196.130.165:4022/rtp/239.3.1.243:8000
+http://123.118.63.235:8686/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD
-http://r.jdshipin.com/OeHMu
-#EXTINF:-1 tvg-id="北京淘电影（备用）" tvg-name="北京IPTV淘电影" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD（备用）
-#http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-http://111.196.130.165:4022/rtp/239.3.1.250:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.250:8001
+http://123.118.63.235:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘BABY" tvg-name="北京IPTV淘BABY" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV淘BABY.HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-http://111.196.130.165:4022/rtp/239.3.1.238:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.238:8001
+http://123.118.63.235:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京萌宠TV" tvg-name="北京IPTV萌宠TV" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV萌宠TV.HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
-http://111.196.130.165:4022/rtp/239.3.1.102:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.102:8001
+http://123.118.63.235:8686/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV淘精彩HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
-http://111.196.130.165:4022/rtp/239.3.1.178:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.178:8001
+http://123.118.63.235:8686/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV淘剧场HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
-http://111.196.130.165:4022/rtp/239.3.1.95:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.95:8001
+http://123.118.63.235:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京卫视.png" group-title="北京",IPTV淘娱乐HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-http://111.196.130.165:4022/rtp/239.3.1.100:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.100:8001
+http://123.118.63.235:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="162" tvg-name="纪实科教" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/北京纪实科教.png" group-title="北京",纪实科教HD
 https://udpxycu.stefanluo.xyz:8443/rtp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="167" tvg-name="卡酷少儿" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/卡酷少儿.png" group-title="北京",卡酷少儿HD
@@ -572,7 +570,7 @@ https://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1 tvg-id="HOYTV资讯" tvg-name="HOY资讯" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/HOY资讯.png" group-title="港澳",HOY资讯
 https://sc2022.stream-link.org/tv2306.php?id=h17
 #EXTINF:-1 tvg-id="Channel[V]" tvg-name="Channel[V]" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/Channel[V].png" group-title="港澳",Channel V
-http://j.cxctu.cf:4000/udp/239.93.0.157:2194
+http://j.cxctu.cf:4000/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/澳视澳门.png" group-title="港澳",澳视澳门
 https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="MyTV SUPER" tvg-name="MyTV SUPER" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/翡翠台.png" group-title="港澳",MyTV SUPER
