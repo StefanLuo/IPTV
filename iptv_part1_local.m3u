@@ -250,22 +250,22 @@ http://123.118.63.235:8686/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="http://192.168.2.3:8091/Logo/北京体育休闲.png" group-title="北京",北京体育休闲HD
 http://123.118.63.235:8686/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京IPTV淘电影" tvg-logo="http://192.168.2.3:8091/Logo/北京卫视.png" group-title="北京",IPTV淘电影HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.250:8001
 http://123.118.63.235:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京淘BABY" tvg-name="北京IPTV淘BABY" tvg-logo="http://192.168.2.3:8091/Logo/北京卫视.png" group-title="北京",IPTV淘BABY.HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.238:8001
 http://123.118.63.235:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京萌宠TV" tvg-name="北京IPTV萌宠TV" tvg-logo="http://192.168.2.3:8091/Logo/北京卫视.png" group-title="北京",IPTV萌宠TV.HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.102:8001
 http://123.118.63.235:8686/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="北京淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="http://192.168.2.3:8091/Logo/北京卫视.png" group-title="北京",IPTV淘精彩HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.178:8001
 http://123.118.63.235:8686/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="http://192.168.2.3:8091/Logo/北京卫视.png" group-title="北京",IPTV淘剧场HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.95:8001
 http://123.118.63.235:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="http://192.168.2.3:8091/Logo/北京卫视.png" group-title="北京",IPTV淘娱乐HD
-#http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+#http://qnap.yjnhome.com:4000/rtp/239.3.1.100:8001
 http://123.118.63.235:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="162" tvg-name="纪实科教" tvg-logo="http://192.168.2.3:8091/Logo/北京纪实科教.png" group-title="北京",纪实科教HD
 http://192.168.2.1:4022/rtp/239.45.1.14:5140
@@ -570,7 +570,7 @@ https://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1 tvg-id="HOYTV资讯" tvg-name="HOY资讯" tvg-logo="http://192.168.2.3:8091/Logo/HOY资讯.png" group-title="港澳",HOY资讯
 https://sc2022.stream-link.org/tv2306.php?id=h17
 #EXTINF:-1 tvg-id="Channel[V]" tvg-name="Channel[V]" tvg-logo="http://192.168.2.3:8091/Logo/Channel[V].png" group-title="港澳",Channel V
-http://j.cxctu.cf:4000/udp/239.93.0.157:2194
+http://j.cxctu.cf:4000/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="http://192.168.2.3:8091/Logo/澳视澳门.png" group-title="港澳",澳视澳门
 https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="MyTV SUPER" tvg-name="MyTV SUPER" tvg-logo="http://192.168.2.3:8091/Logo/翡翠台.png" group-title="港澳",MyTV SUPER
