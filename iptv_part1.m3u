@@ -386,7 +386,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV4K.png" group-title="UHD",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="CCTV4K（备用1）" tvg-name="CCTV4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用1）
-https://channellogocu.stefanluo.xyz:8091/cctv4k.php
+https://channellogocu.stefanluo.xyz:8443/cctv4k.php
 #EXTINF:-1 tvg-id="CCTV4K（备用2）" tvg-name="CCTV4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用2）
 http://r.jdshipin.com/krMB5
 #EXTINF:-1 tvg-id="CCTV4K（备用3）" tvg-name="CCTV4K" tvg-logo="https://channellogocu.stefanluo.xyz:8443/Logo/CCTV4K.png" group-title="UHD",CCTV-4K（备用3）
